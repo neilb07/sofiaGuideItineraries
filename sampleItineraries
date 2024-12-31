@@ -1,0 +1,171 @@
+# index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sofia Guide Itineraries</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Sofia Guide Itineraries</h1>
+    <p>This is a repository of curated itineraries for the Sofia Guide app.</p>
+</body>
+</html>
+
+# catalog.json
+{
+    "catalog_version": "1.0",
+    "last_updated": "2024-12-31",
+    "available_itineraries": [
+        {
+            "id": "religious-tour-001",
+            "title": "Sacred Sofia: Religious Sites Tour",
+            "thumbnail": "https://yourusername.github.io/sofiaGuideItineraries/images/religious-tour.jpg",
+            "preview_description": "A spiritual journey through Sofia's most significant religious landmarks",
+            "download_url": "https://yourusername.github.io/sofiaGuideItineraries/itineraries/religious-tour.json",
+            "tags": ["Religious Sites", "Architecture", "History"]
+        },
+        {
+            "id": "culinary-tour-001",
+            "title": "Sofia Food & Market Tour",
+            "thumbnail": "https://yourusername.github.io/sofiaGuideItineraries/images/food-tour.jpg",
+            "preview_description": "Explore Sofia's culinary heritage through markets and traditional restaurants",
+            "download_url": "https://yourusername.github.io/sofiaGuideItineraries/itineraries/food-tour.json",
+            "tags": ["Food & Cuisine", "Local Culture", "Markets"]
+        },
+        {
+            "id": "communist-tour-001",
+            "title": "Communist Era Sofia",
+            "thumbnail": "https://yourusername.github.io/sofiaGuideItineraries/images/communist-tour.jpg",
+            "preview_description": "Discover the architectural and historical remnants of Sofia's communist past",
+            "download_url": "https://yourusername.github.io/sofiaGuideItineraries/itineraries/communist-tour.json",
+            "tags": ["History", "Architecture", "Political History"]
+        }
+    ]
+}
+
+# itineraries/religious-tour.json
+{
+    "id": "religious-tour-001",
+    "name": "Sacred Sofia: Religious Sites Tour",
+    "pois": [
+        {
+            "Name": "Alexander Nevsky Cathedral",
+            "Category_Label": "Religious Sites",
+            "Photo": "https://example.com/alexander-nevsky.jpg",
+            "Description": "The St. Alexander Nevsky Cathedral is one of the largest Eastern Orthodox cathedrals in the world. Its golden domes and Neo-Byzantine architecture make it Sofia's most recognizable landmark.",
+            "Latitude": 42.695804,
+            "Longitude": 23.332927,
+            "Hours": "7:00 AM - 7:00 PM",
+            "Ai_Description": "This magnificent Orthodox cathedral, built between 1882 and 1912, stands as Bulgaria's largest church. Its stunning gold-plated dome and intricate Neo-Byzantine architecture make it an iconic symbol of Sofia."
+        },
+        {
+            "Name": "Saint Sofia Church",
+            "Category_Label": "Religious Sites",
+            "Photo": "https://example.com/saint-sofia.jpg",
+            "Description": "The second oldest church in Sofia, dating to the 6th century. This church gave the city its name.",
+            "Latitude": 42.696389,
+            "Longitude": 23.330833,
+            "Hours": "8:00 AM - 6:00 PM",
+            "Ai_Description": "This 6th-century church is the oldest in Sofia and gave the city its name. Its brick architecture showcases early Christian design, and its underground museum reveals ancient Roman ruins."
+        },
+        {
+            "Name": "Banya Bashi Mosque",
+            "Category_Label": "Religious Sites",
+            "Photo": "https://example.com/banya-bashi.jpg",
+            "Description": "The only functioning mosque in Sofia, built in the 16th century during Ottoman rule.",
+            "Latitude": 42.698333,
+            "Longitude": 23.321944,
+            "Hours": "5:00 AM - 8:00 PM",
+            "Ai_Description": "Built in 1576, this Ottoman mosque represents Sofia's religious diversity. Its distinctive minaret and dome showcase classical Ottoman architecture, and it remains the city's only active mosque."
+        }
+    ],
+    "description": "Experience Sofia's unique religious heritage through this carefully curated tour of the city's most significant sacred sites. From Orthodox cathedrals to mosques and synagogues, discover how different faiths have shaped the city's culture and architecture.",
+    "timestamp": "2024-12-31T12:00:00.000Z",
+    "type": "downloaded",
+    "selectedInterests": ["Religious Sites", "Architecture", "History"]
+}
+
+# itineraries/food-tour.json
+{
+    "id": "culinary-tour-001",
+    "name": "Sofia Food & Market Tour",
+    "pois": [
+        {
+            "Name": "Central Market Hall",
+            "Category_Label": "Markets",
+            "Photo": "https://example.com/market-hall.jpg",
+            "Description": "Historic covered market featuring local produce, specialty foods, and traditional Bulgarian products.",
+            "Latitude": 42.698611,
+            "Longitude": 23.319444,
+            "Hours": "7:00 AM - 8:00 PM",
+            "Ai_Description": "Built in 1911, this Neo-Renaissance market hall is a food lover's paradise. The ground floor hosts fresh produce vendors, while upper levels offer traditional Bulgarian foods and spices."
+        },
+        {
+            "Name": "Restaurant Row",
+            "Category_Label": "Food & Drink",
+            "Photo": "https://example.com/restaurant-row.jpg",
+            "Description": "Collection of traditional Bulgarian restaurants serving authentic local cuisine.",
+            "Latitude": 42.696111,
+            "Longitude": 23.324444,
+            "Hours": "11:00 AM - 11:00 PM",
+            "Ai_Description": "This historic street features some of Sofia's best traditional restaurants. Sample Bulgarian classics like shopska salad, kavarma, and banitsa in authentic settings."
+        },
+        {
+            "Name": "Women's Market",
+            "Category_Label": "Markets",
+            "Photo": "https://example.com/womens-market.jpg",
+            "Description": "Open-air market known for fresh produce, spices, and local atmosphere.",
+            "Latitude": 42.703333,
+            "Longitude": 23.319444,
+            "Hours": "7:00 AM - 6:00 PM",
+            "Ai_Description": "Dating back to Ottoman times, this vibrant market offers the city's freshest produce at great prices. It's an authentic slice of daily Sofia life and local culture."
+        }
+    ],
+    "description": "Immerse yourself in Sofia's culinary scene with this food-focused tour. Visit historic markets, sample traditional dishes, and discover the flavors that make Bulgarian cuisine unique.",
+    "timestamp": "2024-12-31T12:00:00.000Z",
+    "type": "downloaded",
+    "selectedInterests": ["Food & Cuisine", "Local Culture", "Markets"]
+}
+
+# itineraries/communist-tour.json
+{
+    "id": "communist-tour-001",
+    "name": "Communist Era Sofia",
+    "pois": [
+        {
+            "Name": "National Palace of Culture (NDK)",
+            "Category_Label": "Architecture",
+            "Photo": "https://example.com/ndk.jpg",
+            "Description": "Bulgaria's largest conference center, built in 1981 as a monument to socialist culture.",
+            "Latitude": 42.685278,
+            "Longitude": 23.319444,
+            "Hours": "24/7 (exterior)",
+            "Ai_Description": "Built in 1981, this massive complex exemplifies late communist architecture. Its monumental scale and socialist-realist details reflect the era's architectural ambitions."
+        },
+        {
+            "Name": "Monument to the Soviet Army",
+            "Category_Label": "Monuments",
+            "Photo": "https://example.com/soviet-monument.jpg",
+            "Description": "Controversial monument erected in 1954 to commemorate the Soviet liberation of Bulgaria.",
+            "Latitude": 42.691389,
+            "Longitude": 23.334722,
+            "Hours": "24/7",
+            "Ai_Description": "This 1954 monument represents Soviet-Bulgarian relations during the communist era. Its socialist-realist style and controversial history make it a significant landmark of the period."
+        },
+        {
+            "Name": "Former Communist Party House",
+            "Category_Label": "Architecture",
+            "Photo": "https://example.com/party-house.jpg",
+            "Description": "Former headquarters of the Bulgarian Communist Party, now housing government offices.",
+            "Latitude": 42.696944,
+            "Longitude": 23.326389,
+            "Hours": "Exterior viewing only",
+            "Ai_Description": "Once the nerve center of communist Bulgaria, this imposing building showcases Stalinist architecture. Its distinctive red star was removed after 1989, marking the end of the communist era."
+        }
+    ],
+    "description": "Explore Sofia's communist legacy through its architecture and monuments. This tour offers insights into Bulgaria's socialist period and its lasting impact on the city's landscape.",
+    "timestamp": "2024-12-31T12:00:00.000Z",
+    "type": "downloaded",
+    "selectedInterests": ["History", "Architecture", "Political History"]
+}

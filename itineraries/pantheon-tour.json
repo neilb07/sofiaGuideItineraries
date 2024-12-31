@@ -1,106 +1,139 @@
 {
-  "itineraries": [
-    {
-      "id": "pantheon-tour-789",
-      "name": "Pantheon In-Depth Exploration",
-      "description": "Embark on an in-depth exploration of Rome's iconic Pantheon, uncovering its architectural marvels, rich history, and enduring legends. This comprehensive tour takes you through eight key aspects of the Pantheon, from its stunning portico and dome to the tombs of famous figures and the lively square that surrounds it.",
-      "timestamp": "2024-12-31T14:00:00.000Z",
-      "type": "downloaded",
-      "selectedInterests": [
-        "Historical Sites",
-        "Architecture",
-        "Art",
-        "Culture"
-      ],
-      "pois": [
+    "itineraries": [
         {
-          "Name": "Portico",
-          "Category_Label": "Architecture",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pantheon_portico.jpg/1200px-Pantheon_portico.jpg",
-          "Brief_Description": "The Pantheon's magnificent portico is a Greek-style entrance porch.", // Added Brief_Description
-          "In_Depth_Explanation": "The Pantheon's magnificent portico is a Greek-style entrance porch, featuring 16 massive Corinthian columns made of granite from Egypt. Each column is 11.8 meters (39 ft) tall, 1.5 meters (5 ft) in diameter, and weighs about 60 tons. The triangular pediment above the portico once held sculptures of gods and emperors, though these have been lost to time. The inscription on the frieze attributes the building to Marcus Agrippa, though the current building was constructed by Hadrian. The portico was an important addition by Hadrian, creating a transitional space before entering the rotunda, and its design has influenced countless buildings worldwide.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Greek-style", "Corinthian columns", "Granite"] // Added Tags
-        },
-        {
-          "Name": "Rotunda",
-          "Category_Label": "Architecture",
-          "Photo": "https://example.com/pantheon-rotunda.jpg",
-          "Brief_Description": "The Pantheon's rotunda is a massive circular space topped by the iconic dome.", // Added Brief_Description
-          "In_Depth_Explanation": "The Pantheon's rotunda is a massive circular space topped by the iconic dome. The rotunda's diameter and height are equal at 43.3 meters (142 ft), creating a perfect sphere that could fit inside the cylinder of the room. The walls are 6 meters (20 ft) thick and feature seven alcoves alternating with eight recesses, which help to support the weight of the dome. The alcoves once held statues of Roman gods, while the recesses likely contained statues of emperors. The rotunda's proportions and geometry create a sense of harmony and balance that has inspired architects for centuries.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Dome", "Circular space", "Alcoves"] // Added Tags
-        },
-        {
-          "Name": "Dome",
-          "Category_Label": "Architecture",
-          "Photo": "https://example.com/pantheon-dome.jpg",
-          "Brief_Description": "The Pantheon's dome is a marvel of Roman engineering.", // Added Brief_Description
-          "In_Depth_Explanation": "The Pantheon's dome is a marvel of Roman engineering, measuring 43.3 meters (142 ft) in both height and diameter. It is made of unreinforced concrete, with the mix getting progressively thinner and lighter toward the top to reduce the weight bearing down on the walls. The dome features five rows of 28 coffers (sunken panels) that help to lighten the structure and create a decorative pattern. At the center of the dome is the oculus, a circular opening 8.8 meters (29 ft) in diameter that lets in light and rain. The oculus and the coffers create a stunning play of light and shadow throughout the day.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Engineering", "Concrete", "Coffers", "Oculus"] // Added Tags
-        },
-        {
-          "Name": "Oculus",
-          "Category_Label": "Architecture",
-          "Photo": "https://example.com/pantheon-oculus.jpg",
-          "Brief_Description": "The oculus is the central feature of the Pantheon's dome.", // Added Brief_Description
-          "In_Depth_Explanation": "The oculus is the central feature of the Pantheon's dome, a circular opening 8.8 meters (29 ft) in diameter that serves as the main source of natural light for the interior. It is open to the sky, allowing rain to enter and fall to the floor, where it drains away through discreet holes. The oculus symbolizes the connection between the earthly and celestial realms, and its size and position create a dramatic shaft of light that moves around the interior throughout the day. During special events, rose petals are sometimes dropped through the oculus, creating a stunning spectacle.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Natural light", "Circular opening", "Symbolism"] // Added Tags
-        },
-        {
-          "Name": "Tombs and Monuments",
-          "Category_Label": "Historical Sites",
-          "Photo": "https://example.com/pantheon-tombs.jpg",
-          "Brief_Description": "The Pantheon houses the tombs and monuments of several notable figures.", // Added Brief_Description
-          "In_Depth_Explanation": "The Pantheon houses the tombs and monuments of several notable figures from Italian history. The most famous is the tomb of the Renaissance artist Raphael, who was buried here in 1520 at his request. His fiancée, Maria Bibbiena, is buried next to him. The inscription on Raphael's tomb reads, \"Here lies Raphael, by whom Nature feared to be outdone while he lived, and when he died, feared that she herself would die.\" The Pantheon also contains the tombs of the Italian kings Victor Emmanuel II and Umberto I, as well as the famous composer Arcangelo Corelli. These tombs and monuments add to the Pantheon's significance as a cultural and historical landmark.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Raphael", "Victor Emmanuel II", "Umberto I", "Arcangelo Corelli"] // Added Tags
-        },
-        {
-          "Name": "Pantheon Square",
-          "Category_Label": "Outdoor Spaces",
-          "Photo": "https://example.com/pantheon-square.jpg",
-          "Brief_Description": "The Piazza della Rotonda is the lively public square in front of the Pantheon.", // Added Brief_Description
-          "In_Depth_Explanation": "The Piazza della Rotonda, also known as Pantheon Square, is the lively public square in front of the Pantheon. The square features a central fountain designed by Giacomo Della Porta in 1575, topped by an Egyptian obelisk that was added in 1711. The obelisk was originally located in the Temple of Ra in Heliopolis, Egypt, and was brought to Rome in ancient times. The square is surrounded by historical buildings, including the Church of Santa Maria Rotonda, which was built in the 15th century using materials from the Pantheon. The Pantheon Square is a popular gathering place for locals and tourists alike, with numerous cafes, gelato shops, and souvenir stores lining the perimeter.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.899444,
-          "Longitude": 12.476667,
-          "Tags": ["Piazza della Rotonda", "Fountain", "Obelisk"] // Added Tags
-        },
-        {
-          "Name": "Pantheon History",
-          "Category_Label": "Historical Sites",
-          "Photo": "https://example.com/pantheon-history.jpg",
-          "Brief_Description": "The Pantheon has a rich and complex history spanning nearly 2,000 years.", // Added Brief_Description
-          "In_Depth_Explanation": "The Pantheon has a rich and complex history spanning nearly 2,000 years. It was originally built around 25-27 BC by Marcus Agrippa, a close friend and son-in-law of Emperor Augustus, as a temple to all the gods of ancient Rome. However, the current building is a result of a complete reconstruction ordered by Emperor Hadrian in the early 2nd century AD. The Pantheon survived the fall of the Western Roman Empire and the turbulent times that followed, largely due to its conversion into a Christian church in the 7th century by Pope Boniface IV. It was consecrated as the Church of St. Mary and the Martyrs, which ensured its preservation and maintenance throughout the Middle Ages and beyond. The Pantheon has served as a source of inspiration for countless artists, architects, and engineers, and its influence can be seen in buildings around the world, from the United States Capitol to the Jefferson Memorial. Today, it stands as a testament to the enduring legacy of ancient Roman architecture and the ingenuity of its creators.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Marcus Agrippa", "Hadrian", "Christian church"] // Added Tags
-        },
-        {
-          "Name": "Pantheon Legends",
-          "Category_Label": "Culture",
-          "Photo": "https://example.com/pantheon-legends.jpg",
-          "Brief_Description": "Numerous legends and stories have become associated with the Pantheon.", // Added Brief_Description
-          "In_Depth_Explanation": "Over the centuries, numerous legends and stories have become associated with the Pantheon. One popular legend claims that the oculus was created by the devil when he fell through the dome after being tricked by a saint. Another story suggests that the dome was built using lightweight pumice stones and that the oculus was left open because the weight of the stones would have caused the dome to collapse if it were closed. While these stories are not historically accurate, they reflect the sense of wonder and mystery that the Pantheon has inspired throughout its long history. Other legends are tied to the famous figures buried in the Pantheon. For example, it is said that if you place a coin on Raphael's tomb, you will be blessed with artistic talent. Similarly, some believe that the Pantheon is haunted by the ghosts of those interred within its walls. These legends and stories add to the Pantheon's allure and its enduring fascination for people around the world.", // Renamed Description to In_Depth_Explanation
-          "Latitude": 41.898611,
-          "Longitude": 12.476944,
-          "Tags": ["Legends", "Myths", "Stories"] // Added Tags
+            "id": "pantheon-tour-789",
+            "name": "Pantheon In-Depth Exploration",
+            "description": "Embark on an in-depth exploration of Rome's iconic Pantheon, uncovering its architectural marvels, rich history, and enduring legends. This comprehensive tour takes you through eight key aspects of the Pantheon, from its stunning portico and dome to the tombs of famous figures and the lively square that surrounds it.",
+            "timestamp": "2024-12-31T14:00:00.000Z",
+            "type": "downloaded",
+            "selectedInterests": [
+                "Historical Sites",
+                "Architecture",
+                "Art",
+                "Culture"
+            ],
+            "pois": [
+                {
+                    "Name": "Portico",
+                    "Category_Label": "Architecture",
+                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pantheon_portico.jpg/1200px-Pantheon_portico.jpg",
+                    "Brief_Description": "The Pantheon's magnificent portico is a Greek-style entrance porch.",
+                    "In_Depth_Explanation": "The Pantheon's magnificent portico is a Greek-style entrance porch, featuring 16 massive Corinthian columns made of granite from Egypt. Each column is 11.8 meters (39 ft) tall, 1.5 meters (5 ft) in diameter, and weighs about 60 tons. The triangular pediment above the portico once held sculptures of gods and emperors, though these have been lost to time. The inscription on the frieze attributes the building to Marcus Agrippa, though the current building was constructed by Hadrian. The portico was an important addition by Hadrian, creating a transitional space before entering the rotunda, and its design has influenced countless buildings worldwide.",
+                    "Latitude": 41.898611,
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Greek-style",
+                        "Corinthian columns",
+                        "Granite"
+                    ]
+                },
+                {
+                    "Name": "Rotunda",
+                    "Category_Label": "Architecture",
+                    "Photo": "https://example.com/pantheon-rotunda.jpg",
+                    "Brief_Description": "The Pantheon's rotunda is a massive circular space topped by the iconic dome.",
+                    "In_Depth_Explanation": "The Pantheon's rotunda is a massive circular space topped by the iconic dome. The rotunda's diameter and height are equal at 43.3 meters (142 ft), creating a perfect sphere that could fit inside the cylinder of the room. The walls are 6 meters (20 ft) thick and feature seven alcoves alternating with eight recesses, which help to support the weight of the dome. The alcoves once held statues of Roman gods, while the recesses likely contained statues of emperors. The rotunda's proportions and geometry create a sense of harmony and balance that has inspired architects for centuries.",
+                    "Latitude": 41.898611,
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Dome",
+                        "Circular space",
+                        "Alcoves"
+                    ]
+                },
+                {
+                    "Name": "Dome",
+                    "Category_Label": "Architecture",
+                    "Photo": "https://example.com/pantheon-dome.jpg",
+                    "Brief_Description": "The Pantheon's dome is a marvel of Roman engineering.",
+                    "In_Depth_Explanation": "The Pantheon's dome is a marvel of Roman engineering, measuring 43.3 meters (142 ft) in both height and diameter. It is made of unreinforced concrete, with the mix getting progressively thinner and lighter toward the top to reduce the weight bearing down on the walls. The dome features five rows of 28 coffers (sunken panels) that help to lighten the structure and create a decorative pattern. At the center of the dome is the oculus, a circular opening 8.8 meters (29 ft) in diameter that lets in light and rain. The oculus and the coffers create a stunning play of light and shadow throughout the day.",
+                    "Latitude": 41.898611,
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Engineering",
+                        "Concrete",
+                        "Coffers",
+                        "Oculus"
+                    ]
+                },
+                {
+                    "Name": "Oculus",
+                    "Category_Label": "Architecture",
+                    "Photo": "https://example.com/pantheon-oculus.jpg",
+                    "Brief_Description": "The oculus is the central feature of the Pantheon's dome.",
+                    "In_Depth_Explanation": "The oculus is the central feature of the Pantheon's dome, a circular opening 8.8 meters (29 ft) in diameter that serves as the main source of natural light for the interior. It is open to the sky, allowing rain to enter and fall to the floor, where it drains away through discreet holes. The oculus symbolizes the connection between the earthly and celestial realms, and its size and position create a dramatic shaft of light that moves around the interior throughout the day. During special events, rose petals are sometimes dropped through the oculus, creating a stunning spectacle.",
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Natural light",
+                        "Circular opening",
+                        "Symbolism"
+                    ]
+                },
+                {
+                    "Name": "Tombs and Monuments",
+                    "Category_Label": "Historical Sites",
+                    "Photo": "https://example.com/pantheon-tombs.jpg",
+                    "Brief_Description": "The Pantheon houses the tombs and monuments of several notable figures.",
+                    "In_Depth_Explanation": "The Pantheon houses the tombs and monuments of several notable figures from Italian history. The most famous is the tomb of the Renaissance artist Raphael, who was buried here in 1520 at his request. His fiancée, Maria Bibbiena, is buried next to him. The inscription on Raphael's tomb reads, \"Here lies Raphael, by whom Nature feared to be outdone while he lived, and when he died, feared that she herself would die.\" The Pantheon also contains the tombs of the Italian kings Victor Emmanuel II and Umberto I, as well as the famous composer Arcangelo Corelli. These tombs and monuments add to the Pantheon's significance as a cultural and historical landmark.",
+                    "Latitude": 41.898611,
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Raphael",
+                        "Victor Emmanuel II",
+                        "Umberto I",
+                        "Arcangelo Corelli"
+                    ]
+                },
+                {
+                    "Name": "Pantheon Square",
+                    "Category_Label": "Outdoor Spaces",
+                    "Photo": "https://example.com/pantheon-square.jpg",
+                    "Brief_Description": "The Piazza della Rotonda is the lively public square in front of the Pantheon.",
+                    "In_Depth_Explanation": "The Piazza della Rotonda, also known as Pantheon Square, is the lively public square in front of the Pantheon. The square features a central fountain designed by Giacomo Della Porta in 1575, topped by an Egyptian obelisk that was added in 1711. The obelisk was originally located in the Temple of Ra in Heliopolis, Egypt, and was brought to Rome in ancient times. The square is surrounded by historical buildings, including the Church of Santa Maria Rotonda, which was built in the 15th century using materials from the Pantheon. The Pantheon Square is a popular gathering place for locals and tourists alike, with numerous cafes, gelato shops, and souvenir stores lining the perimeter.",
+                    "Latitude": 41.899444,
+                    "Longitude": 12.476667,
+                    "Tags": [
+                        "Piazza della Rotonda",
+                        "Fountain",
+                        "Obelisk"
+                    ]
+                },
+                {
+                    "Name": "Pantheon History",
+                    "Category_Label": "Historical Sites",
+                    "Photo": "https://example.com/pantheon-history.jpg",
+                    "Brief_Description": "The Pantheon has a rich and complex history spanning nearly 2,000 years.",
+                    "In_Depth_Explanation": "The Pantheon has a rich and complex history spanning nearly 2,000 years. It was originally built around 25-27 BC by Marcus Agrippa, a close friend and son-in-law of Emperor Augustus, as a temple to all the gods of ancient Rome. However, the current building is a result of a complete reconstruction ordered by Emperor Hadrian in the early 2nd century AD. The Pantheon survived the fall of the Western Roman Empire and the turbulent times that followed, largely due to its conversion into a Christian church in the 7th century by Pope Boniface IV. It was consecrated as the Church of St. Mary and the Martyrs, which ensured its preservation and maintenance throughout the Middle Ages and beyond. The Pantheon has served as a source of inspiration for countless artists, architects, and engineers, and its influence can be seen in buildings around the world, from the United States Capitol to the Jefferson Memorial. Today, it stands as a testament to the enduring legacy of ancient Roman architecture and the ingenuity of its creators.",
+                    "Latitude": 41.898611,
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Marcus Agrippa",
+                        "Hadrian",
+                        "Christian church"
+                    ]
+                },
+                {
+                    "Name": "Pantheon Legends",
+                    "Category_Label": "Culture",
+                    "Photo": "https://example.com/pantheon-legends.jpg",
+                    "Brief_Description": "Numerous legends and stories have become associated with the Pantheon.",
+                    "In_Depth_Explanation": "Over the centuries, numerous legends and stories have become associated with the Pantheon. One popular legend claims that the oculus was created by the devil when he fell through the dome after being tricked by a saint. Another story suggests that the dome was built using lightweight pumice stones and that the oculus was left open because the weight of the stones would have caused the dome to collapse if it were closed. While these stories are not historically accurate, they reflect the sense of wonder and mystery that the Pantheon has inspired throughout its long history. Other legends are tied to the famous figures buried in the Pantheon. For example, it is said that if you place a coin on Raphael's tomb, you will be blessed with artistic talent. Similarly, some believe that the Pantheon is haunted by the ghosts of those interred within its walls. These legends and stories add to the Pantheon's allure and its enduring fascination for people around the world.",
+                    "Latitude": 41.898611,
+                    "Longitude": 12.476944,
+                    "Tags": [
+                        "Legends",
+                        "Myths",
+                        "Stories"
+                    ]
+                }
+            ]
         }
-      ]
+    ],
+    "version": "1.0",
+    "metadata": {
+        "source": "TourGuide Platform",
+        "createdAt": "2024-12-31T12:00:00.000Z",
+        "city": "Rome",
+        "country": "Italy"
     }
-  ],
-  "version": "1.0",
-  "metadata": {
-    "source": "TourGuide Platform",
-    "createdAt": "2024-12-31T12:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy"
-  }
 }

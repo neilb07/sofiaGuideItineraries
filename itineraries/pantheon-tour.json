@@ -18,10 +18,17 @@
                     "Category_Label": "Architecture",
                     "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pantheon_portico.jpg/1200px-Pantheon_portico.jpg",
                     "Brief_Description": "The Portico of the Pantheon is a majestic entrance porch supported by 16 massive Corinthian columns made of grey and pink granite.",
-                     "In_Depth_Explanation": "The Pantheon's Portico serves as the grand entrance to this ancient Roman temple. It is composed of 16 towering Corinthian columns arranged in three rows: eight columns in the front and two groups of four behind. These columns support a triangular pediment that would have originally held a bronze sculpture depicting the battle of the Titans. Each column is crafted from a single block of granite, with the shafts weighing roughly 60 tons each. The outer columns are made of grey granite, while the inner columns are made of pink granite, adding a subtle color contrast to the design. The columns have Corinthian capitals, carved from Pentelic marble, featuring intricate designs of acanthus leaves. The floor of the portico is made of white marble and contains a series of circular and square patterns. The portico measures about 33.1 meters wide by 15.5 meters deep (108.6 ft wide by 50.85 ft deep) and its roof would have originally been covered in gilded bronze tiles, adding to the structure's grandeur. The overall design of the portico is Greek-inspired, reminiscent of the Parthenon in Athens, signifying the influence of Greek architecture on Roman building styles. It serves not only as a functional entrance but also as a symbol of the power and importance of the Pantheon, drawing visitors in with its impressive scale and intricate details.",
+                    "In_Depth_Explanation": "The Pantheon's Portico serves as the grand entrance to this ancient Roman temple. It is composed of 16 towering Corinthian columns arranged in three rows: eight columns in the front and two groups of four behind. These columns support a triangular pediment that would have originally held a bronze sculpture depicting the battle of the Titans. Each column is crafted from a single block of granite, with the shafts weighing roughly 60 tons each. The outer columns are made of grey granite, while the inner columns are made of pink granite, adding a subtle color contrast to the design. The columns have Corinthian capitals, carved from Pentelic marble, featuring intricate designs of acanthus leaves. The floor of the portico is made of white marble and contains a series of circular and square patterns. The portico measures about 33.1 meters wide by 15.5 meters deep (108.6 ft wide by 50.85 ft deep) and its roof would have originally been covered in gilded bronze tiles, adding to the structure's grandeur. The overall design of the portico is Greek-inspired, reminiscent of the Parthenon in Athens, signifying the influence of Greek architecture on Roman building styles. It serves not only as a functional entrance but also as a symbol of the power and importance of the Pantheon, drawing visitors in with its impressive scale and intricate details.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
-                    "Tags": [ "Greek-inspired design", "Corinthian columns", "Granite", "Marble flooring", "Triangular pediment", "Bronze roof tiles" ]
+                    "Tags": [
+                        "Greek-inspired design",
+                        "Corinthian columns",
+                        "Granite",
+                        "Marble flooring",
+                        "Triangular pediment",
+                        "Bronze roof tiles"
+                    ]
                 },
                 {
                     "Name": "Rotunda",
@@ -31,7 +38,14 @@
                     "In_Depth_Explanation": "Upon entering the Pantheon through the Portico, visitors are greeted by the awe-inspiring Rotunda, a vast circular space measuring 43 meters (142 feet) in diameter and height. The Rotunda symbolizes the celestial sphere, creating a link between the earthly and divine realms. The walls of the Rotunda are divided into two sections: the lower zone featuring colored marble panels and the upper zone punctuated by seven alcoves. These alcoves, alternating in shape between rectangles and semicircles, once housed statues of Roman deities. The floor of the Rotunda is made up of intricate geometric patterns using various types of marble, including squares, circles, and triangles. At the center of the floor lies a series of circular marble patterns, drawing the eye upward to the magnificent dome above. One of the most striking features of the Rotunda is the central opening, known as the oculus, which measures about 8.2 meters (27 feet) in diameter. This opening allows natural light to flood the interior, creating a dynamic play of light and shadow throughout the day. The oculus also serves a practical purpose, as it helps to ventilate the space and allows rainwater to enter, which is then quickly drained through small holes in the slightly convex floor. The Rotunda of the Pantheon is a testament to the incredible engineering skills of the ancient Romans, who created a vast, harmonious space that has inspired architects and visitors alike for nearly two millennia.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
-                    "Tags": [ "Circular architecture", "Coffered dome", "Celestial symbolism", "Marble wall panels", "Geometric floor patterns", "Oculus" ]
+                    "Tags": [
+                        "Circular architecture",
+                        "Coffered dome",
+                        "Celestial symbolism",
+                        "Marble wall panels",
+                        "Geometric floor patterns",
+                        "Oculus"
+                    ]
                 },
                 {
                     "Name": "Dome",
@@ -39,87 +53,87 @@
                     "Photo": "https://youshouldgohere.com/wp-content/uploads/2006/05/999587406303-500x333.jpg",
                     "Brief_Description": "The Dome of the Pantheon is a revolutionary feat of Roman engineering, using lightweight concrete and a unique cofferring pattern to create a massive, unsupported spherical structure.",
                     "In_Depth_Explanation": "The Dome of the Pantheon is one of the most remarkable architectural achievements of the ancient world. Measuring 43 meters (142 feet) in diameter and height, it is a perfect hemisphere that rests atop the circular walls of the Rotunda without any additional support. This design was revolutionary for its time and remained the largest dome in the world for over 1,300 years. The dome was constructed using a lightweight concrete made from a mixture of lime, volcanic rock, and pumice. This allowed the builders to create a structure that was both strong and relatively light, reducing the overall weight of the dome and the stress on the supporting walls. To further reduce the weight of the dome, the thickness of the concrete varies from 6.4 meters (21 feet) at the base to only 1.2 meters (4 feet) at the oculus. This tapering design helps to distribute the weight efficiently and maintain the dome's structural integrity. The interior of the dome features an intricate cofferring pattern, with five rows of 28 coffers each, gradually decreasing in size as they approach the oculus. These coffers serve both a decorative and structural purpose, as they help to lighten the dome's weight and add visual interest to the vast expanse of the ceiling. The oculus at the center of the dome is the only source of natural light within the Rotunda. Its design allows a shaft of sunlight to move across the interior throughout the day, creating a dynamic interplay between light and shadow that enhances the ethereal atmosphere of the space. The Dome of the Pantheon stands as a testament to the ingenuity and technical prowess of Roman architects and engineers, who created a timeless masterpiece that continues to inspire and marvel visitors nearly 2,000 years after its construction.",
-                    
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
-                   "Tags": [
-"Hemispherical dome",
-"Unsupported structure",
-"Lightweight concrete",
-"Coffered interior",
-"Oculus",
-"Tapering thickness",
-"Roman engineering"
-]
+                    "Tags": [
+                        "Hemispherical dome",
+                        "Unsupported structure",
+                        "Lightweight concrete",
+                        "Coffered interior",
+                        "Oculus",
+                        "Tapering thickness",
+                        "Roman engineering"
+                    ]
                 },
                 {
                     "Name": "Oculus",
                     "Category_Label": "Architecture",
-                    "Photo": "https://example.com/pantheon-oculus.jpg",
-                    "Brief_Description": "The oculus is the central feature of the Pantheon's dome.",
-                    "In_Depth_Explanation": "The oculus is the central feature of the Pantheon's dome, a circular opening 8.8 meters (29 ft) in diameter that serves as the main source of natural light for the interior. It is open to the sky, allowing rain to enter and fall to the floor, where it drains away through discreet holes. The oculus symbolizes the connection between the earthly and celestial realms, and its size and position create a dramatic shaft of light that moves around the interior throughout the day. During special events, rose petals are sometimes dropped through the oculus, creating a stunning spectacle.",
+                    "Photo": "https://www.almendron.com/tribuna/wp-content/uploads/2016/05/climbing-the-eye-of-god-8.jpg",
+                    "Brief_Description": "The Oculus is the central opening in the Pantheon's dome, allowing natural light to illuminate the interior.",
+                    "In_Depth_Explanation": "The Oculus is a remarkable architectural feature of the Pantheon, serving as the only source of natural light within the building. This circular opening, measuring about 8.2 meters (27 feet) in diameter, is located at the apex of the dome. The Oculus allows a shaft of sunlight to penetrate the interior, creating a dramatic effect as it moves across the space throughout the day.\n\nThe design of the Oculus is closely tied to the symbolism of the Pantheon, representing the connection between the earthly and celestial realms. The light entering through the Oculus was seen as a metaphor for the divine presence, illuminating the space and the people within.\n\nIn addition to its symbolic significance, the Oculus also serves a practical purpose. It helps to ventilate the interior and allows rainwater to enter the building. The slightly convex floor of the Rotunda is designed with a series of small holes and drains to quickly remove any water that falls through the Oculus.\n\nThe presence of the Oculus is a testament to the confidence and skill of the Pantheon's architects and engineers. They created a massive, unsupported dome with a central opening, demonstrating their mastery of materials and structural design. The Oculus is an integral part of the Pantheon's unique character, contributing to the building's enduring fascination and architectural legacy.",
+                    "Latitude": 41.898611,
                     "Longitude": 12.476944,
                     "Tags": [
-                        "Natural light",
-                        "Circular opening",
-                        "Symbolism"
+                        "Natural lighting",
+                        "Celestial symbolism",
+                        "Ventilation",
+                        "Rainwater drainage",
+                        "Architectural confidence"
                     ]
                 },
                 {
                     "Name": "Tombs and Monuments",
                     "Category_Label": "Historical Sites",
-                    "Photo": "https://example.com/pantheon-tombs.jpg",
-                    "Brief_Description": "The Pantheon houses the tombs and monuments of several notable figures.",
-                    "In_Depth_Explanation": "The Pantheon houses the tombs and monuments of several notable figures from Italian history. The most famous is the tomb of the Renaissance artist Raphael, who was buried here in 1520 at his request. His fiancée, Maria Bibbiena, is buried next to him. The inscription on Raphael's tomb reads, \"Here lies Raphael, by whom Nature feared to be outdone while he lived, and when he died, feared that she herself would die.\" The Pantheon also contains the tombs of the Italian kings Victor Emmanuel II and Umberto I, as well as the famous composer Arcangelo Corelli. These tombs and monuments add to the Pantheon's significance as a cultural and historical landmark.",
+                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_tomb_of_Raphael_in_the_Pantheon_in_Rome%2C_Italy_%28Ank_Kumar%29_06.jpg",
+                    "Brief_Description": "The Pantheon houses the tombs and monuments of several notable figures, including kings and artists.",
+                    "In_Depth_Explanation": "While the Pantheon was originally built as a temple dedicated to all the gods of ancient Rome, it has also served as a burial place for notable figures throughout history. The interior of the Pantheon is home to several tombs and monuments, each with its own unique story and significance.\n\nOne of the most famous tombs within the Pantheon is that of the Italian Renaissance artist and architect Raphael. Located in the third niche to the left of the entrance, Raphael's tomb is marked by a large marble sculpture depicting the Madonna and Child, flanked by allegorical figures representing Art and Science. The inscription on the tomb reads, 'Here lies Raphael, by whom Nature feared to be outdone while he lived, and when he died, feared that she herself would die.' Another notable burial within the Pantheon is that of King Victor Emmanuel II, the first king of a unified Italy. His tomb, located in the second niche to the right of the entrance, features a large bronze plaque and a perpetually burning lamp.\n\nOther significant figures interred within the Pantheon include King Umberto I and his wife, Queen Margherita, as well as the Italian painter and architect Annibale Carracci.\n\nThe presence of these tombs and monuments adds another layer of historical and cultural significance to the Pantheon. They serve as reminders of the building's long and varied history, as well as its enduring importance as a site of remembrance and veneration.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
                     "Tags": [
-                        "Raphael",
-                        "Victor Emmanuel II",
-                        "Umberto I",
-                        "Arcangelo Corelli"
-                    ]
-                },
-                {
-                    "Name": "Pantheon Square",
-                    "Category_Label": "Outdoor Spaces",
-                    "Photo": "https://example.com/pantheon-square.jpg",
-                    "Brief_Description": "The Piazza della Rotonda is the lively public square in front of the Pantheon.",
-                    "In_Depth_Explanation": "The Piazza della Rotonda, also known as Pantheon Square, is the lively public square in front of the Pantheon. The square features a central fountain designed by Giacomo Della Porta in 1575, topped by an Egyptian obelisk that was added in 1711. The obelisk was originally located in the Temple of Ra in Heliopolis, Egypt, and was brought to Rome in ancient times. The square is surrounded by historical buildings, including the Church of Santa Maria Rotonda, which was built in the 15th century using materials from the Pantheon. The Pantheon Square is a popular gathering place for locals and tourists alike, with numerous cafes, gelato shops, and souvenir stores lining the perimeter.",
-                    "Latitude": 41.899444,
-                    "Longitude": 12.476667,
-                    "Tags": [
-                        "Piazza della Rotonda",
-                        "Fountain",
-                        "Obelisk"
+                        "Raphael's tomb",
+                        "King Victor Emmanuel II",
+                        "King Umberto I",
+                        "Queen Margherita",
+                        "Annibale Carracci",
+                        "Renaissance art",
+                        "Italian monarchy"
                     ]
                 },
                 {
                     "Name": "Pantheon History",
                     "Category_Label": "Historical Sites",
-                    "Photo": "https://example.com/pantheon-history.jpg",
-                    "Brief_Description": "The Pantheon has a rich and complex history spanning nearly 2,000 years.",
-                    "In_Depth_Explanation": "The Pantheon has a rich and complex history spanning nearly 2,000 years. It was originally built around 25-27 BC by Marcus Agrippa, a close friend and son-in-law of Emperor Augustus, as a temple to all the gods of ancient Rome. However, the current building is a result of a complete reconstruction ordered by Emperor Hadrian in the early 2nd century AD. The Pantheon survived the fall of the Western Roman Empire and the turbulent times that followed, largely due to its conversion into a Christian church in the 7th century by Pope Boniface IV. It was consecrated as the Church of St. Mary and the Martyrs, which ensured its preservation and maintenance throughout the Middle Ages and beyond. The Pantheon has served as a source of inspiration for countless artists, architects, and engineers, and its influence can be seen in buildings around the world, from the United States Capitol to the Jefferson Memorial. Today, it stands as a testament to the enduring legacy of ancient Roman architecture and the ingenuity of its creators.",
+                    "Photo": "https://www.stefanorometours.com/upload/CONF100/20230703/History_of_Pantheon_Rome_private_tours.jpg",
+                    "Brief_Description": "The Pantheon has a rich history, originally built as a Roman temple and later consecrated as a Christian church.",
+                    "In_Depth_Explanation": "The Pantheon boasts a fascinating history that spans nearly two millennia. Originally built around 25-27 BCE by Marcus Agrippa, the Pantheon served as a temple dedicated to all the gods of ancient Rome. However, the current building is not the original structure. The Pantheon was rebuilt by Emperor Hadrian in the early 2nd century CE, following damage from a fire.\n\nUnder Hadrian's reign, the Pantheon underwent significant changes, including the addition of its most iconic feature, the massive dome. The building's design and construction showcased the incredible architectural and engineering skills of the ancient Romans.\n\nThe Pantheon continued to function as a temple until the early 5th century when it was closed due to the rise of Christianity in the Roman Empire. In 609 CE, the Byzantine Emperor Phocas gave the building to Pope Boniface IV, who consecrated it as a Christian church dedicated to St. Mary and the Martyrs.\n\nThroughout the Middle Ages and the Renaissance, the Pantheon remained an important center of religious and cultural life in Rome. It served as a source of inspiration for countless artists, architects, and thinkers, who marveled at its beauty and technical prowess.\n\nIn the 16th and 17th centuries, the Pantheon underwent several restoration projects, including the addition of the two bell towers by Gian Lorenzo Bernini. However, these towers were later removed in the late 19th century.\n\nToday, the Pantheon stands as a testament to the enduring legacy of ancient Roman architecture and engineering. It continues to attract millions of visitors each year, who come to marvel at its beauty, learn about its rich history, and pay homage to the various notable figures interred within its walls.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
                     "Tags": [
                         "Marcus Agrippa",
-                        "Hadrian",
-                        "Christian church"
+                        "Emperor Hadrian",
+                        "Ancient Roman temple",
+                        "Christian church",
+                        "Byzantine Empire",
+                        "Pope Boniface IV",
+                        "Renaissance inspiration",
+                        "Gian Lorenzo Bernini",
+                        "Restoration projects"
                     ]
                 },
                 {
                     "Name": "Pantheon Legends",
                     "Category_Label": "Culture",
-                    "Photo": "https://example.com/pantheon-legends.jpg",
-                    "Brief_Description": "Numerous legends and stories have become associated with the Pantheon.",
-                    "In_Depth_Explanation": "Over the centuries, numerous legends and stories have become associated with the Pantheon. One popular legend claims that the oculus was created by the devil when he fell through the dome after being tricked by a saint. Another story suggests that the dome was built using lightweight pumice stones and that the oculus was left open because the weight of the stones would have caused the dome to collapse if it were closed. While these stories are not historically accurate, they reflect the sense of wonder and mystery that the Pantheon has inspired throughout its long history. Other legends are tied to the famous figures buried in the Pantheon. For example, it is said that if you place a coin on Raphael's tomb, you will be blessed with artistic talent. Similarly, some believe that the Pantheon is haunted by the ghosts of those interred within its walls. These legends and stories add to the Pantheon's allure and its enduring fascination for people around the world.",
+                    "Photo": "https://images.ohmyhosting.se/riqk6hq8Ht7p1lAxrzfQi-GJJEI=/fit-in/1680x1050/smart/filters:quality(85)/https%3A%2F%2Fengelsbergideas.com%2Fwp-content%2Fuploads%2F2022%2F08%2FRomulus-and-Remus.jpeg",
+                    "Brief_Description": "The Pantheon is associated with various legends, including its divine protection and the story of its oculus.",
+                    "In_Depth_Explanation": "Throughout its long history, the Pantheon has been the subject of numerous legends and stories. These tales contribute to the building's enduring mystique and cultural significance.\n\nOne popular legend suggests that the Pantheon was built on the site where the founder of Rome, Romulus, ascended to heaven. According to this story, Romulus was taken up to the heavens by the god Mars at this very spot, making it a sacred place for the Roman people.\n\nAnother legend relates to the Pantheon's divine protection. It is said that the Pantheon was consecrated by the gods themselves, and that this divine presence has safeguarded the building throughout history. This legend may help to explain why the Pantheon has survived for nearly 2,000 years, despite facing numerous challenges and threats.\n\nA third legend focuses on the Pantheon's most distinctive feature, the oculus. According to this story, the oculus was created by the gods as a reminder of their power and presence. It is said that the rain never falls through the oculus, even on the stormiest of days, as a sign of the gods' ongoing protection of the building.\n\nWhile these legends may not be historically accurate, they serve an important purpose in the cultural legacy of the Pantheon. They help to imbue the building with a sense of wonder, mystery, and significance that goes beyond its architectural and historical importance. These stories have helped to keep the Pantheon alive in the hearts and minds of people throughout the centuries, ensuring its enduring place in the annals of human civilization.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
                     "Tags": [
-                        "Legends",
-                        "Myths",
-                        "Stories"
+                        "Romulus",
+                        "Divine protection",
+                        "Sacred site",
+                        "Oculus legends",
+                        "Cultural legacy",
+                        "Enduring mystique"
                     ]
                 }
             ]

@@ -16,7 +16,7 @@
         {
           "Name": "Capuchin Crypt",
           "Category_Label": "Religious Site",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sedlec-Ossuary.jpg/1200px-Sedlec-Ossuary.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rom%2C_Santa_Maria_Immacolata_a_Via_Veneto%2C_Krypta_der_Kapuziner_1.jpg",
           "Latitude": 41.9047,
           "Longitude": 12.4883, 
           "Brief_Description": "A crypt decorated with the bones of nearly 4,000 Capuchin friars.",
@@ -30,7 +30,7 @@
         {
           "Name": "Pyramid of Cestius",
           "Category_Label": "Ancient Landmark",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piramide_Cestia_2019.jpg/1200px-Piramide_Cestia_2019.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cimeti%C3%A8re_anglais_de_Rome.jpg/1200px-Cimeti%C3%A8re_anglais_de_Rome.jpg",
           "Latitude": 41.8766,
           "Longitude": 12.4809,
           "Brief_Description": "An ancient Egyptian-style pyramid built as a tomb for a Roman magistrate.",
@@ -44,7 +44,7 @@
         {
           "Name": "Quartiere Coppedè",
           "Category_Label": "Neighborhood",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Roma_Quartiere_Coppede_03.JPG/1200px-Roma_Quartiere_Coppede_03.JPG",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Quartiere_Copped%C3%A9_09.jpg",
           "Latitude": 41.9160,
           "Longitude": 12.4965,
           "Brief_Description": "A quirky neighborhood known for its eclectic mix of architectural styles.",
@@ -58,7 +58,7 @@
         {
           "Name": "Santo Stefano Rotondo",
           "Category_Label": "Church",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Santo_Stefano_Rotondo_panorama-1_2020.jpg/1200px-Santo_Stefano_Rotondo_panorama-1_2020.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Celio_-_santo_Stefano_Rotondo_-_interno_in_restauro_01533-4.JPG/1200px-Celio_-_santo_Stefano_Rotondo_-_interno_in_restauro_01533-4.JPG",
           "Latitude": 41.8847,
           "Longitude": 12.4969,
           "Brief_Description": "A unique 5th-century church with a circular floor plan and gruesome frescoes.",
@@ -72,7 +72,7 @@
         {
           "Name": "Museum of the Souls of Purgatory",
           "Category_Label": "Museum",
-          "Photo": "https://romecolosseumtickets.com/wp-content/uploads/2022/04/Museum-of-the-Souls-in-Purgatory-1.jpg",
+          "Photo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlboeqItPhT9o5qxSHy4jwciC7xCQjz0_YIIztCUtONJgzwFv-sFb-gTANDeHFd6YZpp2jL_fcx0tFO4X8nHiw3238dqgIXyY53W1PgxvEtxHtuF9OYGUproZxhFRAaDv5nMWBTUz_T8fz/s1600/9_edited.jpg",
           "Latitude": 41.9088,
           "Longitude": 12.4659,
           "Brief_Description": "A small museum housing artifacts believed to show traces of souls in purgatory.",
@@ -86,7 +86,7 @@
         {
           "Name": "Porta Alchemica",
           "Category_Label": "Landmark",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alchemic_Door_-_panoramio.jpg/1200px-Alchemic_Door_-_panoramio.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Piazza_Vittorio_Porta_magica_9511-02.JPG/1200px-Piazza_Vittorio_Porta_magica_9511-02.JPG",
           "Latitude": 41.8943,
           "Longitude": 12.5040,
           "Brief_Description": "A mysterious marble doorway covered in alchemical and astrological symbols.",
@@ -100,7 +100,7 @@
         {
           "Name": "Arciconfraternita Santa Maria dell'Orazione e Morte",
           "Category_Label": "Religious Site",
-          "Photo": "https://live.staticflickr.com/2462/3668846876_cb778f2657_b.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Regola_-_S._Maria_dell%27Orazione_e_Morte.JPG",
           "Latitude": 41.9006,
           "Longitude": 12.4696,
           "Brief_Description": "A small church and underground ossuary decorated with the bones of over 3,000 monks.",
@@ -114,7 +114,7 @@
         {
           "Name": "Catacombs of San Sebastiano",
           "Category_Label": "Archaeological Site",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Catacombe_di_San_Sebastiano_-_panoramio.jpg/1200px-Catacombe_di_San_Sebastiano_-_panoramio.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Roma%2C_Catacombe_di_San_Sebastiano_%284%29.jpg/2560px-Roma%2C_Catacombe_di_San_Sebastiano_%284%29.jpg",
           "Latitude": 41.8586,
           "Longitude": 12.5162,
           "Brief_Description": "Ancient underground burial tunnels once used as a place of worship for early Christians.",

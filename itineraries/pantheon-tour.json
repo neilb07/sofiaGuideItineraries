@@ -17,44 +17,40 @@
                     "Name": "Portico",
                     "Category_Label": "Architecture",
                     "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pantheon_portico.jpg/1200px-Pantheon_portico.jpg",
-                    "Brief_Description": "The Pantheon's magnificent portico is a Greek-style entrance porch.",
-                    "In_Depth_Explanation": "The Pantheon's magnificent portico is a Greek-style entrance porch, featuring 16 massive Corinthian columns made of granite from Egypt. Each column is 11.8 meters (39 ft) tall, 1.5 meters (5 ft) in diameter, and weighs about 60 tons. The triangular pediment above the portico once held sculptures of gods and emperors, though these have been lost to time. The inscription on the frieze attributes the building to Marcus Agrippa, though the current building was constructed by Hadrian. The portico was an important addition by Hadrian, creating a transitional space before entering the rotunda, and its design has influenced countless buildings worldwide.",
+                    "Brief_Description": "The Portico of the Pantheon is a majestic entrance porch supported by 16 massive Corinthian columns made of grey and pink granite.",
+                     "In_Depth_Explanation": "The Pantheon's Portico serves as the grand entrance to this ancient Roman temple. It is composed of 16 towering Corinthian columns arranged in three rows: eight columns in the front and two groups of four behind. These columns support a triangular pediment that would have originally held a bronze sculpture depicting the battle of the Titans. Each column is crafted from a single block of granite, with the shafts weighing roughly 60 tons each. The outer columns are made of grey granite, while the inner columns are made of pink granite, adding a subtle color contrast to the design. The columns have Corinthian capitals, carved from Pentelic marble, featuring intricate designs of acanthus leaves. The floor of the portico is made of white marble and contains a series of circular and square patterns. The portico measures about 33.1 meters wide by 15.5 meters deep (108.6 ft wide by 50.85 ft deep) and its roof would have originally been covered in gilded bronze tiles, adding to the structure's grandeur. The overall design of the portico is Greek-inspired, reminiscent of the Parthenon in Athens, signifying the influence of Greek architecture on Roman building styles. It serves not only as a functional entrance but also as a symbol of the power and importance of the Pantheon, drawing visitors in with its impressive scale and intricate details.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
-                    "Tags": [
-                        "Greek-style",
-                        "Corinthian columns",
-                        "Granite"
-                    ]
+                    "Tags": [ "Greek-inspired design", "Corinthian columns", "Granite", "Marble flooring", "Triangular pediment", "Bronze roof tiles" ]
                 },
                 {
                     "Name": "Rotunda",
                     "Category_Label": "Architecture",
-                    "Photo": "https://example.com/pantheon-rotunda.jpg",
-                    "Brief_Description": "The Pantheon's rotunda is a massive circular space topped by the iconic dome.",
-                    "In_Depth_Explanation": "The Pantheon's rotunda is a massive circular space topped by the iconic dome. The rotunda's diameter and height are equal at 43.3 meters (142 ft), creating a perfect sphere that could fit inside the cylinder of the room. The walls are 6 meters (20 ft) thick and feature seven alcoves alternating with eight recesses, which help to support the weight of the dome. The alcoves once held statues of Roman gods, while the recesses likely contained statues of emperors. The rotunda's proportions and geometry create a sense of harmony and balance that has inspired architects for centuries.",
+                    "Photo": "https://smarthistory.org/wp-content/uploads/2015/12/panelev.jpg",
+                    "Brief_Description": "The Rotunda of the Pantheon is a massive circular room topped by a coffered concrete dome, symbolizing the heavens.",
+                    "In_Depth_Explanation": "Upon entering the Pantheon through the Portico, visitors are greeted by the awe-inspiring Rotunda, a vast circular space measuring 43 meters (142 feet) in diameter and height. The Rotunda symbolizes the celestial sphere, creating a link between the earthly and divine realms. The walls of the Rotunda are divided into two sections: the lower zone featuring colored marble panels and the upper zone punctuated by seven alcoves. These alcoves, alternating in shape between rectangles and semicircles, once housed statues of Roman deities. The floor of the Rotunda is made up of intricate geometric patterns using various types of marble, including squares, circles, and triangles. At the center of the floor lies a series of circular marble patterns, drawing the eye upward to the magnificent dome above. One of the most striking features of the Rotunda is the central opening, known as the oculus, which measures about 8.2 meters (27 feet) in diameter. This opening allows natural light to flood the interior, creating a dynamic play of light and shadow throughout the day. The oculus also serves a practical purpose, as it helps to ventilate the space and allows rainwater to enter, which is then quickly drained through small holes in the slightly convex floor. The Rotunda of the Pantheon is a testament to the incredible engineering skills of the ancient Romans, who created a vast, harmonious space that has inspired architects and visitors alike for nearly two millennia.",
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
-                    "Tags": [
-                        "Dome",
-                        "Circular space",
-                        "Alcoves"
-                    ]
+                    "Tags": [ "Circular architecture", "Coffered dome", "Celestial symbolism", "Marble wall panels", "Geometric floor patterns", "Oculus" ]
                 },
                 {
                     "Name": "Dome",
                     "Category_Label": "Architecture",
-                    "Photo": "https://example.com/pantheon-dome.jpg",
-                    "Brief_Description": "The Pantheon's dome is a marvel of Roman engineering.",
-                    "In_Depth_Explanation": "The Pantheon's dome is a marvel of Roman engineering, measuring 43.3 meters (142 ft) in both height and diameter. It is made of unreinforced concrete, with the mix getting progressively thinner and lighter toward the top to reduce the weight bearing down on the walls. The dome features five rows of 28 coffers (sunken panels) that help to lighten the structure and create a decorative pattern. At the center of the dome is the oculus, a circular opening 8.8 meters (29 ft) in diameter that lets in light and rain. The oculus and the coffers create a stunning play of light and shadow throughout the day.",
+                    "Photo": "https://youshouldgohere.com/wp-content/uploads/2006/05/999587406303-500x333.jpg",
+                    "Brief_Description": "The Dome of the Pantheon is a revolutionary feat of Roman engineering, using lightweight concrete and a unique cofferring pattern to create a massive, unsupported spherical structure.",
+                    "In_Depth_Explanation": "The Dome of the Pantheon is one of the most remarkable architectural achievements of the ancient world. Measuring 43 meters (142 feet) in diameter and height, it is a perfect hemisphere that rests atop the circular walls of the Rotunda without any additional support. This design was revolutionary for its time and remained the largest dome in the world for over 1,300 years. The dome was constructed using a lightweight concrete made from a mixture of lime, volcanic rock, and pumice. This allowed the builders to create a structure that was both strong and relatively light, reducing the overall weight of the dome and the stress on the supporting walls. To further reduce the weight of the dome, the thickness of the concrete varies from 6.4 meters (21 feet) at the base to only 1.2 meters (4 feet) at the oculus. This tapering design helps to distribute the weight efficiently and maintain the dome's structural integrity. The interior of the dome features an intricate cofferring pattern, with five rows of 28 coffers each, gradually decreasing in size as they approach the oculus. These coffers serve both a decorative and structural purpose, as they help to lighten the dome's weight and add visual interest to the vast expanse of the ceiling. The oculus at the center of the dome is the only source of natural light within the Rotunda. Its design allows a shaft of sunlight to move across the interior throughout the day, creating a dynamic interplay between light and shadow that enhances the ethereal atmosphere of the space. The Dome of the Pantheon stands as a testament to the ingenuity and technical prowess of Roman architects and engineers, who created a timeless masterpiece that continues to inspire and marvel visitors nearly 2,000 years after its construction.",
+                    
                     "Latitude": 41.898611,
                     "Longitude": 12.476944,
-                    "Tags": [
-                        "Engineering",
-                        "Concrete",
-                        "Coffers",
-                        "Oculus"
-                    ]
+                   "Tags": [
+"Hemispherical dome",
+"Unsupported structure",
+"Lightweight concrete",
+"Coffered interior",
+"Oculus",
+"Tapering thickness",
+"Roman engineering"
+]
                 },
                 {
                     "Name": "Oculus",

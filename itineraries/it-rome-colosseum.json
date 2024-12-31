@@ -15,7 +15,7 @@
                 {
                     "Name": "Exterior and Facade",
                     "Category_Label": "Architecture",
-                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Colosseum_exterior%2C_inner_and_outer_wall_AvL.jpg/1200px-Colosseum_exterior%2C_inner_and_outer_wall_AvL.jpg",
                     "Latitude": 41.8902,
                     "Longitude": 12.4922,
                     "Brief_Description": "The iconic exterior of the Colosseum, showcasing its grand scale and architectural features.",
@@ -31,7 +31,7 @@
                 {
                     "Name": "Arena and Hypogeum",
                     "Category_Label": "Historical Site",
-                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1200px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Colosseum_hypogeum.JPG/450px-Colosseum_hypogeum.JPG",
                     "Latitude": 41.8902,
                     "Longitude": 12.4922,
                     "Brief_Description": "The arena floor and underground chambers where gladiatorial contests and spectacles took place.",
@@ -47,7 +47,7 @@
                 {
                     "Name": "Seating and Spectator Areas",
                     "Category_Label": "Historical Site",
-                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Colosseum-seating.jpg/1200px-Colosseum-seating.jpg",
+                    "Photo": "https://pressbooks.bccampus.ca/spectaclesintheromanworldsourcebook/wp-content/uploads/sites/848/2019/10/Ch-4-Seating-in-the-Arena.png",
                     "Latitude": 41.8902,
                     "Longitude": 12.4922,
                     "Brief_Description": "The tiered seating and spectator areas that accommodated tens of thousands of ancient Roman spectators.",
@@ -63,7 +63,7 @@
                 {
                     "Name": "Arch of Constantine",
                     "Category_Label": "Historical Site",
-                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rome_Colosseum_and_Arch_of_Constantine_2020.jpg/1200px-Rome_Colosseum_and_Arch_of_Constantine_2020.jpg",
+                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Arch_of_Constantine_at_Night_%28Rome%29.jpg/1200px-Arch_of_Constantine_at_Night_%28Rome%29.jpg",
                     "Latitude": 41.889444,
                     "Longitude": 12.490556,
                     "Brief_Description": "The triumphal arch dedicated to Emperor Constantine, located adjacent to the Colosseum.",
@@ -80,7 +80,7 @@
                 {
                     "Name": "Flavian Amphitheater",
                     "Category_Label": "Historical Site",
-                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1200px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Colosseum_%288474551096%29.jpg/340px-Colosseum_%288474551096%29.jpg",
                     "Latitude": 41.8902,
                     "Longitude": 12.4922,
                     "Brief_Description": "The original name of the Colosseum, constructed during the reign of the Flavian dynasty.",
@@ -97,7 +97,7 @@
                 {
                     "Name": "Colosseum Restoration and Conservation",
                     "Category_Label": "Preservation Efforts",
-                    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anfiteatro_Flavio_%28Colosseo%29.jpg/1200px-Anfiteatro_Flavio_%28Colosseo%29.jpg",
+                    "Photo": "https://colosseumrometickets.com/wp-content/uploads/2018/05/The-Colosseum-in-Rome-with-restore-works-in-progress-on-the-facade.-The-Colosseum-or-Coliseum-also-known-as-the-Flavian-Amphitheatre-in-Rome-Italy-on-June-24-2015..jpg",
                     "Latitude": 41.8902,
                     "Longitude": 12.4922,
                     "Brief_Description": "Ongoing efforts to preserve and restore the Colosseum for future generations.",
@@ -114,7 +114,7 @@
                 {
                     "Name": "Colosseum Museum",
                     "Category_Label": "Museum",
-                    "Photo": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/7f/81.jpg",
+                    "Photo": "https://colosseo.it/sito/wp-content/uploads/2018/11/colosseo_modello_fontana.jpg",
                     "Latitude": 41.8899,
                     "Longitude": 12.4921,
                     "Brief_Description": "A museum showcasing artifacts and exhibits related to the history and function of the Colosseum.",

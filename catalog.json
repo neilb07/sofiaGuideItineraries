@@ -29,18 +29,7 @@
             ]
         },
         
-        {
-            "id": "Rome-001",
-            "title": "Rome Center",
-            "thumbnail": "https://mamalovesrome.com/wp-content/uploads/2022/07/Trevi-Fountain.jpg",
-            "preview_description": "Explore Rome's heritage",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/rome-tour.json",
-            "tags": [
-                "Food & Cuisine",
-                "Local Culture",
-                "Markets"
-            ]
-        },
+ 
         {
             "id": "communist-tour-001",
             "title": "Communist Era Sofia",

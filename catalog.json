@@ -5,9 +5,9 @@
         {
             "id": "religious-tour-001",
             "title": "Sacred Sofia: Religious Sites Tour",
-            "thumbnail": "https://yourusername.github.io/sofiaGuideItineraries/images/religious-tour.jpg",
+            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/religious-tour.jpg",
             "preview_description": "A spiritual journey through Sofia's most significant religious landmarks",
-            "download_url": "https://yourusername.github.io/sofiaGuideItineraries/itineraries/religious-tour.json",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/religious-tour.json",
             "tags": [
                 "Religious Sites",
                 "Architecture",
@@ -17,9 +17,9 @@
         {
             "id": "culinary-tour-001",
             "title": "Sofia Food & Market Tour",
-            "thumbnail": "https://yourusername.github.io/sofiaGuideItineraries/images/food-tour.jpg",
+            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/food-tour.jpg",
             "preview_description": "Explore Sofia's culinary heritage through markets and traditional restaurants",
-            "download_url": "https://yourusername.github.io/sofiaGuideItineraries/itineraries/food-tour.json",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/food-tour.json",
             "tags": [
                 "Food & Cuisine",
                 "Local Culture",
@@ -29,9 +29,9 @@
         {
             "id": "communist-tour-001",
             "title": "Communist Era Sofia",
-            "thumbnail": "https://yourusername.github.io/sofiaGuideItineraries/images/communist-tour.jpg",
+            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/communist-tour.jpg",
             "preview_description": "Discover the architectural and historical remnants of Sofia's communist past",
-            "download_url": "https://yourusername.github.io/sofiaGuideItineraries/itineraries/communist-tour.json",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/communist-tour.json",
             "tags": [
                 "History",
                 "Architecture",

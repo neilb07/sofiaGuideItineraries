@@ -15,11 +15,11 @@
             ]
         },
         {
-            "id": "culinary-tour-001",
-            "title": "Sofia Food & Market Tour",
-            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/food-tour.jpg",
-            "preview_description": "Explore Sofia's culinary heritage through markets and traditional restaurants",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/food-tour.json",
+            "id": "Rome-001",
+            "title": "Rome Center",
+            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/rome.jpg",
+            "preview_description": "Explore Rome's heritage",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/rome-tour.json",
             "tags": [
                 "Food & Cuisine",
                 "Local Culture",

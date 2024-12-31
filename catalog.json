@@ -3,11 +3,11 @@
     "last_updated": "2024-12-31",
     "available_itineraries": [
         {
-            "id": "religious-tour-001",
-            "title": "Sacred Sofia: Religious Sites Tour",
-            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/religious-tour.jpg",
-            "preview_description": "A spiritual journey through Sofia's most significant religious landmarks",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/religious-tour.json",
+            "id": "pantheon-tour-001",
+            "title": "The Pantheon: POIs and interesting facts",
+            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/pantheon-tour.jpg",
+            "preview_description": "Pantheon In-Depth Exploration",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pantheon-tour.json",
             "tags": [
                 "Religious Sites",
                 "Architecture",

@@ -1,1 +1,82 @@
 
+{
+  "itineraries": [
+    {
+      "id": "ancient-rome-tour-001",
+      "name": "Ancient Rome Walking Tour",
+      "pois": [
+        {
+          "Name": "The Colosseum",
+          "Category_Label": "Historical Landmark",
+          "Photo": "https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/roman-coliseum-under-clouds-sunset-summer?_a=BAVARSAP0",
+          "Description": "The largest amphitheater of the Roman Empire, the Colosseum once hosted gladiatorial contests and public spectacles, symbolizing the architectural prowess of Ancient Rome.",
+          "Latitude": 41.8902,
+          "Longitude": 12.4922
+        },
+        {
+          "Name": "Roman Forum",
+          "Category_Label": "Archaeological Site",
+          "Photo": "https://cdn.britannica.com/99/128399-050-EB6E336F/Temple-of-Saturn-Roman-Forum-Rome.jpg",
+          "Description": "Once the center of day-to-day life in Ancient Rome, the Forum hosted triumphal processions, elections, public speeches, and was the nucleus of commercial affairs.",
+          "Latitude": 41.8924,
+          "Longitude": 12.4853
+        },
+        {
+          "Name": "Palatine Hill",
+          "Category_Label": "Archaeological Site",
+          "Photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f7/f0/b1/img-20171013-132257-069.jpg?w=1200&h=-1&s=1",
+          "Description": "One of the most ancient parts of the city, Palatine Hill is where, according to legend, Romulus founded Rome. It became the residential district for emperors and aristocrats.",
+          "Latitude": 41.8887,
+          "Longitude": 12.4885
+        },
+        {
+          "Name": "Pantheon",
+          "Category_Label": "Religious Sites",
+          "Photo": "https://theromanguy.com/wp-content/uploads/pantheon-feature-real-900x420.jpeg",
+          "Description": "A former Roman temple, now a church, the Pantheon is renowned for its massive dome and oculus. It remains one of the best-preserved of all Ancient Roman buildings.",
+          "Latitude": 41.8986,
+          "Longitude": 12.4769
+        },
+        {
+          "Name": "Arch of Constantine",
+          "Category_Label": "Monument",
+          "Photo": "https://smarthistory.org/wp-content/uploads/2015/11/constantine.jpg",
+          "Description": "Erected in 315 AD to commemorate Constantine I's victory, this triumphal arch features intricate reliefs celebrating the glory of the Roman Empire.",
+          "Latitude": 41.8897,
+          "Longitude": 12.4904
+        },
+        {
+          "Name": "Circus Maximus",
+          "Category_Label": "Archaeological Site",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CircusMaximusSO.jpg/1200px-CircusMaximusSO.jpg",
+          "Description": "Ancient Rome’s largest stadium, used primarily for chariot races. Today, only traces remain, but the site is still impressive in scale and historical importance.",
+          "Latitude": 41.8860,
+          "Longitude": 12.4862
+        },
+        {
+          "Name": "Baths of Caracalla",
+          "Category_Label": "Archaeological Site",
+          "Photo": "https://www.finestresullarte.info/rivista/immagini/2024/fn/specchio-caracalla-1.jpg",
+          "Description": "One of the most monumental bath complexes in Ancient Rome, the Baths of Caracalla provided citizens with a grand space for bathing, socializing, and exercising.",
+          "Latitude": 41.8787,
+          "Longitude": 12.4922
+        }
+      ],
+      "description": "Immerse yourself in the heart of the Roman Empire with this walking tour that highlights the most iconic sites of Ancient Rome, from the grand amphitheaters to the sacred temples. Perfect for history lovers eager to step back in time and admire these timeless architectural and cultural treasures.",
+      "timestamp": "2024-12-31T12:00:00.000Z",
+      "type": "downloaded",
+      "selectedInterests": [
+        "Historical Sites",
+        "Archaeology",
+        "Roman Empire"
+      ]
+    }
+  ],
+  "version": "1.0",
+  "metadata": {
+    "source": "TourGuide Platform",
+    "createdAt": "2024-12-31T12:00:00.000Z",
+    "city": "Rome",
+    "country": "Italy"
+  }
+}

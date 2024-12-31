@@ -15,7 +15,7 @@
 {
 "Name": "Carmo Convent Ruins",
 "Category_Label": "Historical Site",
-"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lisboa_June_2013-8a.jpg/1200px-Lisboa_June_2013-8a.jpg",
+"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ruins_of_Igreja_do_Carmo_at_2009-06-15.jpg/800px-Ruins_of_Igreja_do_Carmo_at_2009-06-15.jpg",
 "Latitude": 38.7121,
 "Longitude": -9.1406,
 "Brief_Description": "The haunting ruins of a gothic convent destroyed in the 1755 Lisbon earthquake.",
@@ -31,7 +31,7 @@
 {
 "Name": "Roman Galleries",
 "Category_Label": "Archaeological Site",
-"Photo": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/99/99/87.jpg",
+"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Galerias_Romanas.jpg/1200px-Galerias_Romanas.jpg",
 "Latitude": 38.7097,
 "Longitude": -9.1336,
 "Brief_Description": "A subterranean network of ancient Roman galleries and chambers beneath the streets of Lisbon.",
@@ -47,7 +47,7 @@
 {
 "Name": "Quinta da Regaleira",
 "Category_Label": "Architectural Site",
-"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Regaleira_Sintra_-Aug_2009.jpg/1200px-Regaleira_Sintra-Aug_2009.jpg",
+"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Palacio-da-Regaleira1_Sintra_Set-07.jpg/1200px-Palacio-da-Regaleira1_Sintra_Set-07.jpg",
 "Latitude": 38.7963,
 "Longitude": -9.3961,
 "Brief_Description": "A mysterious and fantastical estate featuring hidden tunnels, grottos, and esoteric symbolism.",
@@ -63,7 +63,7 @@
 {
 "Name": "National Pantheon Atrium and Crypt",
 "Category_Label": "Historical Site",
-"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Santa_Engr%C3%A1cia_February_2016-9.jpg/1200px-Santa_Engr%C3%A1cia_February_2016-9.jpg",
+"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pantheon_wider_centered.jpg/698px-Pantheon_wider_centered.jpg",
 "Latitude": 38.7149,
 "Longitude": -9.1246,
 "Brief_Description": "The crypt and atrium of Lisbon's National Pantheon, housing the tombs of Portugal's most notable figures.",
@@ -79,7 +79,7 @@
 {
 "Name": "Museu de Marinha Underwater Archaeology Collection",
 "Category_Label": "Museum",
-"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Museu_da_Marinha_em_Lisboa-Dec_2011.jpg/1024px-Museu_da_Marinha_em_Lisboa-_Dec_2011.jpg",
+"Photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sala_dos_Descobrimentos_%283394347179%29.jpg",
 "Latitude": 38.6951,
 "Longitude": -9.204459,
 "Brief_Description": "A unique collection of artifacts recovered from shipwrecks and underwater archaeological sites.",
@@ -95,7 +95,7 @@
         {
           "Name": "Casa do Alentejo Moorish Courtyard",
           "Category_Label": "Historical Site",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Interior_of_Casa_do_Alentejo.jpg/1200px-Interior_of_Casa_do_Alentejo.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Internal_courtyard_at_Casa_do_Alentejo_%284142251510%29.jpg",
           "Latitude": 38.7141, 
           "Longitude": -9.1401,
           "Brief_Description": "A stunning Moorish-style courtyard hidden within a 17th-century palace.",
@@ -111,7 +111,7 @@
         {
           "Name": "Museu Nacional de História Natural e da Ciência Zoological Collection",
           "Category_Label": "Museum",
-          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Palaentological_collection_of_national_history_museum_of_lisbon.jpg/1200px-Palaentological_collection_of_national_history_museum_of_lisbon.jpg",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Antiga_Escola_Polit%C3%A9cnica_-_Lisboa.jpg/1200px-Antiga_Escola_Polit%C3%A9cnica_-_Lisboa.jpg",
           "Latitude": 38.7174,
           "Longitude": -9.1551,
           "Brief_Description": "Bizarre zoological specimens from around the world, including a 'cyclops' shark and a two-headed turtle.",
@@ -127,7 +127,7 @@
         {
           "Name": "Convento dos Cardaes",
           "Category_Label": "Historical Site",
-          "Photo": "https://lh3.googleusercontent.com/p/AF1QipMbOxDsVTd5HqbXMJi6vmO4HMN-LCrhGMKdvpxK=s1600-w400",
+          "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Igreja_dos_Cardais.jpg/640px-Igreja_dos_Cardais.jpg",
           "Latitude": 38.715107,
           "Longitude": -9.1461384,
           "Brief_Description": "A former convent with a macabre secret: the embalmed body of a young girl, perfectly preserved since 1755.",

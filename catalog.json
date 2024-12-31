@@ -17,17 +17,32 @@
 
 
         {
-            "id": "colosseum-in-depth-tour-002",
-            "title": "Inside the Colosseum: An In-Depth Tour",
-            "thumbnail": "https://preview.redd.it/32nt9nda7vj61.png?width=1080&crop=smart&auto=webp&s=522c2120ea8f155723da683fe84d0d0e6edfff6b",
-            "preview_description": "The exterior of the Colosseum immediately impresses visitors",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/colosseum.json",
+            "id": "Roma-Obscura-002",
+            "title": "Obscure Rome: A Journey into Mystery",
+            "thumbnail": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/030/981/original/485e88e1bdd24903eebcd8a52a8673c6/article-italy-rome-capuchin-crypt.jpg",
+            "preview_description": "Explore the darker, more mysterious side of Rome with this unique itinerary featuring hidden gems and unusual sites.",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/it-rome-roma_obscura.json",
             "tags": [
                 "Religious Sites",
                 "Architecture",
                 "History"
             ]
         },
+
+
+                {
+            "id": "Lisboa-Obscura-002",
+            "title": "Obscure Lisbon: A Journey into Mystery",
+            "thumbnail": "https://www.weheartlisbon.com/wp-content/uploads/2020/05/Igreja-de-S%C3%A3o-Domingos-muur-1024x683.jpg",
+            "preview_description": "Explore the darker, more mysterious side of Lisbon with this unique itinerary featuring hidden gems and unusual sites.",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-lisboa_obscura.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+
         
  
         {

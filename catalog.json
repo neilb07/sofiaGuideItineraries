@@ -17,6 +17,20 @@
 
 
         {
+            "id": "Roma-Colosseo-001",
+            "title": "Exploring the Colosseum: A Journey Through Ancient Rome",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg",
+            "preview_description": "Discover the history, architecture, and mysteries of the iconic Colosseum in Rome.",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/it-rome-colosseum.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+
+
+                {
             "id": "Roma-Obscura-002",
             "title": "Obscure Rome: A Journey into Mystery",
             "thumbnail": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/030/981/original/485e88e1bdd24903eebcd8a52a8673c6/article-italy-rome-capuchin-crypt.jpg",
@@ -29,6 +43,20 @@
             ]
         },
 
+
+     
+        {
+            "id": "Roma-forum-001",
+            "title": "Discovering the Roman Forum: The Heart of Ancient Rome",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Forum_Romanum_Rom.jpg/800px-Forum_Romanum_Rom.jpg",
+            "preview_description": "Explore the political, religious, and social center of ancient Rome in the Roman Forum",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/it-rome-forum.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
 
                 {
             "id": "Lisboa-Obscura-002",

@@ -14,6 +14,21 @@
                 "History"
             ]
         },
+
+
+        {
+            "id": "colosseum-in-depth-tour-002",
+            "title": "Inside the Colosseum: An In-Depth Tour",
+            "thumbnail": "https://neilb07.github.io/sofiaGuideItineraries/images/religious-tour.jpg",
+            "preview_description": "The exterior of the Colosseum immediately impresses visitors",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/Colosseum.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+        
         {
             "id": "Rome-001",
             "title": "Rome Center",

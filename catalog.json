@@ -71,6 +71,21 @@
             ]
         },
 
+
+        
+                {
+            "id": "Lisboa-earthquake-002",
+            "title": "1755 - Lisbon Earthquake tour.",
+            "thumbnail": "https://images.prismic.io/quake/8f0aaea7-3c74-41a0-84e3-babfa10f3b11_Capture.PNG?auto=compress,format",
+            "preview_description": "This itinerary explores Lisbon's rebirth following the devastating 1755 earthquake, focusing on historical sites, architectural innovations, and cultural shifts..",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-1755_earthquake.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+
         
  
         {

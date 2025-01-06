@@ -76,7 +76,7 @@
                 {
             "id": "Lisboa-earthquake-002",
             "title": "1755 - Lisbon Earthquake tour.",
-            "thumbnail": "https://images.prismic.io/quake/8f0aaea7-3c74-41a0-84e3-babfa10f3b11_Capture.PNG?auto=compress,format",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2F1755-earthquake%2FAlegoria_ao_Terramoto_de_1755%2C_Jo%C3%A3o_Glama.png?alt=media&token=afffa9ac-47ae-4ba4-8413-45f0e862a4ba",
             "preview_description": "This itinerary explores Lisbon's rebirth following the devastating 1755 earthquake, focusing on historical sites, architectural innovations, and cultural shifts..",
             "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-1755_earthquake.json",
             "tags": [
@@ -86,19 +86,19 @@
             ]
         },
 
-        
- 
         {
-            "id": "communist-tour-001",
-            "title": "Communist Era Sofia",
-            "thumbnail": "https://www.blocal-travel.com/wp-content/uploads/2015/05/museum-of-socialist-art-Sofia-4.jpg",
-            "preview_description": "Discover the architectural and historical remnants of Sofia's communist past",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/communist-tour.json",
+            "id": "Lisboa-earthquake-002",
+            "title": "1755 V2",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2F1755-earthquake%2FAlegoria_ao_Terramoto_de_1755%2C_Jo%C3%A3o_Glama.png?alt=media&token=afffa9ac-47ae-4ba4-8413-45f0e862a4ba",
+            "preview_description": "This itinerary explores Lisbon's rebirth following the devastating 1755 earthquake, focusing on historical sites, architectural innovations, and cultural shifts..",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-1755_earthquake_v2.json",
             "tags": [
-                "History",
+                "Religious Sites",
                 "Architecture",
-                "Political History"
+                "History"
             ]
         }
+ 
+         
     ]
 }

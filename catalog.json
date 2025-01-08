@@ -3,6 +3,19 @@
     "last_updated": "2024-12-31",
     "available_itineraries": [
         {
+            "id": "Sofia-Medieval_Mysteries_of_Veliko_Tarnovo-001",
+            "title": "Bohemian Sofia Tour",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St._George_Rotunda%2C_Sofia%2C_Bulgaria_%2817680380465%29.jpg/1280px-St._George_Rotunda%2C_Sofia%2C_Bulgaria_%2817680380465%29.jpg",
+            "preview_description": "A journey through Sofia’s vibrant Bohemian era, exploring its cultural and intellectual landmarks.",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/bg-Bohemian_Sofia-001.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+
+        {
             "id": "pantheon-tour-001",
             "title": "The Pantheon: POIs and interesting facts",
             "thumbnail": "https://www.saturdaysinrome.com/wp-content/uploads/2024/09/inside-the-pantheon-3.webp",

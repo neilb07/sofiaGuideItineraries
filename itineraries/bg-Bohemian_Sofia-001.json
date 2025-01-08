@@ -1,0 +1,200 @@
+{
+    "metadata": {
+      "id": "",
+      "name": "Bohemian Sofia Tour",
+      "description": "A journey through Sofia’s vibrant Bohemian era, exploring its cultural and intellectual landmarks.",
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "coordinates": {
+        "latitude": "42.6977",
+        "longitude": "23.3219"
+      },
+      "createdAt": "",
+      "updatedAt": "2025-01-08T20:05:55.234Z",
+      "language": "English",
+      "tier": "Intermediate",
+      "duration": "3 hours",
+      "difficulty": "Moderate",
+      "categories": [
+        "Culture",
+        "History",
+        "Art"
+      ],
+      "tags": [
+        "Bohemian lifestyle",
+        "Art",
+        "Culture",
+        "Theater",
+        "Cafes",
+        "History"
+      ],
+      "thumbnailUrl": "",
+      "authorId": "",
+      "authorName": "",
+      "rating": 0,
+      "reviewCount": 0,
+      "theme": "Bohemian Sofia – A Haven of Art, Ideas, and Revolution"
+    },
+    "points": [
+      {
+        "id": "1",
+        "name": "The Yellow Brick Road and Sofia’s Royal Palace",
+        "description": "Explore the iconic boulevard and the Royal Palace, the heart of Sofia’s Bohemian era.",
+        "inDepthDescription": "Let’s begin at the iconic Yellow Brick Road, Sofia’s main boulevard, and the Royal Palace. As we stand on these golden bricks, imagine the carriages of nobility and Bohemian intellectuals passing by, their lives intertwined with the burgeoning modern culture of Bulgaria. The Royal Palace was the residence of Bulgaria’s monarchs during Sofia’s Bohemian era. Under King Ferdinand I, who was an avid patron of the arts, the palace became a cultural hub. The king’s fascination with science and the arts attracted artists, writers, and thinkers to Sofia. Nearby, cafes buzzed with heated debates about literature, politics, and the future of the young Bulgarian state. This area became a meeting point for Sofia’s emerging intellectual elite.",
+        "inDepthDescriptionContext": "This stop highlights Sofia’s transformation into a cultural and intellectual capital during its Bohemian era.",
+        "category": "Cultural Landmark",
+        "coordinates": {
+          "latitude": "42.695",
+          "longitude": "23.332"
+        },
+        "estimatedDuration": "30 minutes",
+        "audioUrl": "https://storage.googleapis.com/ai-tourguide-1dc92.firebasestorage.app/special_itineraries/Bulgaria/Bohemian_Sofia_Tour/The_Yellow_Brick_Road_and_Sofia’s_Royal_Palace_en_1736366677351.mp3",
+        "photoUrl": "",
+        "openingHours": "",
+        "entryFee": "",
+        "tips": "Visit the National Art Gallery during weekdays for a quieter experience and explore the Ethnographic Museum to better understand Bulgaria’s folk traditions.",
+        "accessibility": "Wheelchair accessible",
+        "bestTimeToVisit": "Morning or late afternoon",
+        "historicalContext": "The yellow bricks were a gift from Austro-Hungary in the early 20th century, symbolizing Bulgaria’s ambitions to align with European modernity.",
+        "culturalSignificance": "The Royal Palace now houses the National Art Gallery and the Ethnographic Museum, preserving the artistic and cultural legacy of this era.",
+        "hiddenGems": "Look for the small bronze statues near the boulevard – subtle tributes to Sofia’s artists and intellectuals.",
+        "thematicConnections": [
+          "Art",
+          "History",
+          "Royalty"
+        ],
+        "visitorExperiences": [
+          "Interactive art exhibits",
+          "Historic architecture"
+        ],
+        "historicalNarrative": "This location sets the tone for the tour, showcasing Sofia’s transformation into a modern capital while retaining its Bohemian spirit.",
+        "nextStop": {
+          "description": "Slaveykov Square – Sofia’s Literary Heart",
+          "duration": "5-minute walk",
+          "transportOptions": [
+            "Walking"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "name": "Slaveykov Square – Sofia’s Literary Heart",
+        "description": "Discover the vibrant literary history of Slaveykov Square, a gathering place for poets and philosophers.",
+        "inDepthDescription": "Now, we stroll to Slaveykov Square, a vibrant plaza named after the father-son duo Petko and Pencho Slaveykov, celebrated Bulgarian poets. This square was a magnet for writers, philosophers, and aspiring intellectuals during Sofia’s Bohemian age. Picture this square a century ago, filled with the chatter of poets exchanging ideas and street vendors selling newspapers with the latest revolutionary articles. The Slaveykovs, particularly Pencho, were pivotal in shaping Bulgaria’s literary identity. Pencho’s groundbreaking poetry, influenced by European modernism, symbolized the blending of Bulgarian tradition with new, avant-garde ideas. Cafes around the square became impromptu literary salons, where writers debated philosophy and recited verses.",
+        "inDepthDescriptionContext": "This stop emphasizes the intellectual and cultural exchanges that defined Sofia’s Bohemian era.",
+        "category": "Historical Landmark",
+        "coordinates": {
+          "latitude": "42.694",
+          "longitude": "23.324"
+        },
+        "estimatedDuration": "20 minutes",
+        "audioUrl": "https://storage.googleapis.com/ai-tourguide-1dc92.firebasestorage.app/special_itineraries/Bulgaria/Bohemian_Sofia_Tour/Slaveykov_Square_–_Sofia’s_Literary_Heart_en_1736366725089.mp3",
+        "photoUrl": "",
+        "openingHours": "",
+        "entryFee": "",
+        "tips": "Visit in the morning to enjoy the square’s charm before it gets crowded. Try a traditional Bulgarian coffee at a nearby cafe.",
+        "accessibility": "Wheelchair accessible",
+        "bestTimeToVisit": "Morning",
+        "historicalContext": "Pencho Slaveykov’s most famous work, “Songs of Blood and Spirit,” reflects the struggles and dreams of Bulgaria’s people.",
+        "culturalSignificance": "The bronze bench statue of the Slaveykovs is a favorite photo spot and a tribute to their enduring legacy.",
+        "hiddenGems": "Explore the nearby antique book market to find rare Bulgarian literary works.",
+        "thematicConnections": [
+          "Literature",
+          "Philosophy",
+          "Cafes"
+        ],
+        "visitorExperiences": [
+          "Literary events",
+          "Coffee tasting"
+        ],
+        "historicalNarrative": "Slaveykov Square captures the essence of Sofia’s Bohemian period, showcasing the symbiosis of tradition and innovation in Bulgarian literature.",
+        "nextStop": {
+          "description": "The Ivan Vazov National Theater",
+          "duration": "7-minute walk",
+          "transportOptions": [
+            "Walking"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "name": "The Ivan Vazov National Theater",
+        "description": "Experience Sofia’s cultural crown jewel, a symbol of its artistic and intellectual aspirations.",
+        "inDepthDescription": "Next, we approach the majestic Ivan Vazov National Theater, the crown jewel of Sofia’s cultural scene and a symbol of its artistic ambitions. The theater, named after Bulgaria’s national writer Ivan Vazov, opened its doors in 1907 and quickly became a beacon of culture. During the Bohemian era, it staged avant-garde plays, operas, and performances that challenged conventions. This was where Sofia’s Bohemians gathered to celebrate the arts and share revolutionary ideas. The theater’s neoclassical architecture and lush gardens became a symbol of Sofia’s aspirations.",
+        "inDepthDescriptionContext": "This stop highlights the role of the arts in Sofia’s Bohemian era and the city’s cultural resilience.",
+        "category": "Theater",
+        "coordinates": {
+          "latitude": "42.694",
+          "longitude": "23.324"
+        },
+        "estimatedDuration": "30 minutes",
+        "audioUrl": "https://storage.googleapis.com/ai-tourguide-1dc92.firebasestorage.app/special_itineraries/Bulgaria/Bohemian_Sofia_Tour/The_Ivan_Vazov_National_Theater_en_1736366737651.mp3",
+        "photoUrl": "",
+        "openingHours": "Varies by performance schedule",
+        "entryFee": "Depends on event",
+        "tips": "Attend a live performance for an unforgettable experience. English subtitles are often available.",
+        "accessibility": "Wheelchair accessible",
+        "bestTimeToVisit": "Evening for performances",
+        "historicalContext": "Designed by Austrian architects Helmer and Fellner, the theater’s facade features stunning allegorical sculptures representing Drama and Music.",
+        "culturalSignificance": "The theater staged avant-garde plays and performances that challenged conventions, becoming a focal point for Sofia’s Bohemian spirit.",
+        "hiddenGems": "Look for the smaller statues in the garden, depicting mythical figures tied to Bulgarian folklore.",
+        "thematicConnections": [
+          "Drama",
+          "Music",
+          "Architecture"
+        ],
+        "visitorExperiences": [
+          "Live performances",
+          "Architectural tours"
+        ],
+        "historicalNarrative": "The Ivan Vazov National Theater connects the intellectual spirit of Sofia’s Bohemian age with its artistic expression.",
+        "nextStop": {
+          "description": "Famous Restaurants and Cafes of Bohemian Sofia",
+          "duration": "10-minute walk",
+          "transportOptions": [
+            "Walking"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "name": "Famous Restaurants and Cafes of Bohemian Sofia",
+        "description": "Relive the vibrant cafe culture that anchored Sofia’s Bohemian spirit.",
+        "inDepthDescription": "Sofia’s Bohemian culture was anchored in its vibrant cafe scene. Iconic venues like the “Bulgaria Cafe” and the “Paris Cafe” hosted luminaries such as Ivan Vazov, the Slaveykov poets, and prominent revolutionary figures like Hristo Botev and Vasil Levski. Foreign dignitaries and artists passing through Sofia, including Austro-Hungarian and French diplomats, also frequented these spots. The “Paris Cafe”, known for its Viennese pastries, was a favorite of Pencho Slaveykov, who often wrote verses while sipping his coffee. At the “Bulgaria Cafe,” plans for cultural and political movements were secretly discussed, making it a hotspot for intrigue.",
+        "inDepthDescriptionContext": "This stop captures the lively cafe culture that fostered intellectual and revolutionary discussions.",
+        "category": "Cafe",
+        "coordinates": {
+          "latitude": "42.693",
+          "longitude": "23.322"
+        },
+        "estimatedDuration": "30 minutes",
+        "audioUrl": "https://storage.googleapis.com/ai-tourguide-1dc92.firebasestorage.app/special_itineraries/Bulgaria/Bohemian_Sofia_Tour/Famous_Restaurants_and_Cafes_of_Bohemian_Sofia_en_1736366750620.mp3",
+        "photoUrl": "",
+        "openingHours": "",
+        "entryFee": "",
+        "tips": "Try the traditional Bulgarian banitsa paired with coffee at one of these historic locations for a taste of the past.",
+        "accessibility": "Wheelchair accessible",
+        "bestTimeToVisit": "Afternoon",
+        "historicalContext": "These cafes and restaurants were microcosms of Sofia’s Bohemian spirit, blending intellectual discourse with culinary delights.",
+        "culturalSignificance": "The cafes connected Sofia’s local intelligentsia with broader European movements.",
+        "hiddenGems": "Some of these cafes still exist today, though under different names. Look for vintage decor and old photos displayed on their walls, capturing the era’s essence.",
+        "thematicConnections": [
+          "Cafes",
+          "Food",
+          "Revolution"
+        ],
+        "visitorExperiences": [
+          "Culinary experiences",
+          "Historic cafe tours"
+        ],
+        "historicalNarrative": "These cafes were vibrant spaces for cultural and political ferment, where Sofia’s Bohemian spirit flourished.",
+        "nextStop": {
+          "description": "Conclusion",
+          "duration": "5-minute walk",
+          "transportOptions": [
+            "Walking"
+          ]
+        }
+      }
+    ]
+  }

@@ -2,6 +2,20 @@
     "catalog_version": "1.0",
     "last_updated": "2024-12-31",
     "available_itineraries": [
+
+        {
+            "id": "lisbon-palacio-marques-da-fronteira",
+            "title": "Palácio Marquês da Fronteira: A Lisbon Hidden Gem",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2FSecrets_of_Pal%C3%A1cio_Marqu%C3%AAs_da_Fronteira%3A_A_Lisbon_Hidden_Gem%2FPalacio_Fronteira_-_Lisbon_(7721187114).jpg?alt=media&token=b352e3ec-aefd-49c7-984b-259a184e7582",
+            "preview_description": "Uncover the secrets and stories of Palácio Marquês da Fronteira, a stunning example of Portugal's rich heritage where history, art, and nature intertwine.",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-palaciomarquesfronteira.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+
         {
             "id": "Sofia-Medieval_Mysteries_of_Veliko_Tarnovo-001",
             "title": "Bohemian Sofia Tour",

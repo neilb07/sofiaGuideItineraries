@@ -42,6 +42,20 @@
             ]
         },
 
+        {
+            "id": "greece-tour-001",
+            "title": "Tour of Athens",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ágora_de_Atenas_03.jpg/1024px-Ágora_de_Atenas_03.jpg",
+            "preview_description": "x",
+            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/gr-athens_tour.json",
+            "tags": [
+                "Religious Sites",
+                "Architecture",
+                "History"
+            ]
+        },
+
+
 
         {
             "id": "Roma-Colosseo-001",

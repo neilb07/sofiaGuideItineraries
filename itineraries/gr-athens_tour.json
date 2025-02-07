@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "id": "athens-arch-001",
+    "name": "Architectural Heritage of Athens: A Journey Through Time",
+    "description": "Explore the architectural evolution of Athens from classical antiquity to the Roman period through its most iconic structures.",
+    "country": "Greece",
+    "city": "Athens",
+    "coordinates": {
+      "latitude": "37.9715",
+      "longitude": "23.7269"
+    },
+    "createdAt": "2025-02-07",
+    "updatedAt": "2025-02-07T15:25:47.330Z",
+    "language": "English",
+    "tier": "Premium",
+    "duration": "6 hours",
+    "difficulty": "Moderate",
+    "categories": [
+      "Architecture",
+      "History",
+      "Archaeology",
+      "Cultural"
+    ],
+    "tags": [
+      "Ancient Greece",
+      "Classical Architecture",
+      "Temples",
+      "Acropolis",
+      "Roman Architecture"
+    ],
+    "thumbnailUrl": "/images/athens/acropolis.jpg",
+    "authorId": "AUTH001",
+    "authorName": "Historical Architecture Guide",
+    "rating": 4.8,
+    "reviewCount": 245,
+    "theme": "The Architectural Revolution of Athens"
+  },
+  "points": [
+    {
+      "id": "ATH001",
+      "name": "Ancient Agora",
+      "description": "The heart of ancient Athenian civic life and birthplace of democracy",
+      "inDepthDescription": "The Ancient Agora represents the world's first purpose-built public square, embodying the democratic ideals of ancient Athens. The centerpiece Temple of Hephaestus stands as the best-preserved Doric temple, while the reconstructed Stoa of Attalos demonstrates everyday classical architecture.",
+      "inDepthDescriptionContext": "The space served as the center of Athenian democracy and commerce, featuring various civic buildings, temples, and public spaces.",
+      "category": "Archaeological Site",
+      "coordinates": {
+        "latitude": "37.9747",
+        "longitude": "23.7229"
+      },
+      "estimatedDuration": "1 hour",
+      "audioUrl": "/audio/ancient-agora.mp3",
+      "photoUrl": "/images/athens/ancient-agora.jpg",
+      "openingHours": "8:00 AM - 5:00 PM",
+      "entryFee": "12 EUR",
+      "tips": "Visit early morning to avoid crowds and capture the best photos of the Temple of Hephaestus",
+      "accessibility": "Moderate - some uneven terrain",
+      "bestTimeToVisit": "Early morning or late afternoon",
+      "historicalContext": "Served as the center of Athenian democracy from the 6th century BCE to the Roman period",
+      "culturalSignificance": "Birthplace of democratic governance and public discourse",
+      "hiddenGems": "Ancient ballot boxes (ostraka) in the Agora Museum",
+      "thematicConnections": [
+        "Democracy",
+        "Public Architecture",
+        "Civic Life"
+      ],
+      "visitorExperiences": [
+        "Archaeological exploration",
+        "Historical interpretation",
+        "Architectural study"
+      ],
+      "historicalNarrative": "The Agora evolved from a simple marketplace to the heart of Athenian democracy, where philosophers like Socrates engaged in public discourse",
+      "nextStop": {
+        "description": "Head up towards the Acropolis entrance",
+        "duration": "15 minutes",
+        "transportOptions": [
+          "Walking"
+        ]
+      }
+    },
+    {
+      "id": "ATH002",
+      "name": "Acropolis Approach - Propylaea",
+      "description": "Monumental gateway to the Acropolis",
+      "inDepthDescription": "The Propylaea represents one of ancient Greece's most sophisticated engineering achievements, creating a dramatic transition from the mortal world to the sacred precinct above.",
+      "inDepthDescriptionContext": "Built during the Golden Age of Athens under Pericles",
+      "category": "Monument",
+      "coordinates": {
+        "latitude": "37.9715",
+        "longitude": "23.7266"
+      },
+      "estimatedDuration": "45 minutes",
+      "audioUrl": "/audio/propylaea.mp3",
+      "photoUrl": "/images/athens/propylaea.jpg",
+      "openingHours": "8:00 AM - 7:30 PM (Summer)",
+      "entryFee": "Included in Acropolis ticket",
+      "tips": "Watch your footing on the marble steps – they're polished smooth by millions of footsteps",
+      "accessibility": "Challenging - steep incline and marble steps",
+      "bestTimeToVisit": "Early morning or late afternoon",
+      "historicalContext": "Built 437-432 BCE as part of Pericles' building program",
+      "culturalSignificance": "Masterpiece of Classical Greek architecture",
+      "hiddenGems": "Ancient visitor graffiti on marble steps",
+      "thematicConnections": [
+        "Engineering",
+        "Sacred Architecture",
+        "Classical Design"
+      ],
+      "visitorExperiences": [
+        "Architectural appreciation",
+        "Historical immersion",
+        "Photography"
+      ],
+      "historicalNarrative": "Designed by Mnesicles to create a magnificent entrance worthy of the Acropolis",
+      "nextStop": {
+        "description": "Proceed to the Parthenon",
+        "duration": "10 minutes",
+        "transportOptions": [
+          "Walking"
+        ]
+      }
+    },
+    {
+      "id": "ATH003",
+      "name": "Parthenon",
+      "description": "The crown jewel of Classical Greek architecture",
+      "inDepthDescription": "The ultimate expression of Doric architecture, featuring sophisticated optical refinements and perfect proportions following the golden ratio.",
+      "inDepthDescriptionContext": "Built during the height of Athenian power and influence",
+      "category": "Temple",
+      "coordinates": {
+        "latitude": "37.9715",
+        "longitude": "23.7269"
+      },
+      "estimatedDuration": "1 hour",
+      "audioUrl": "/audio/parthenon.mp3",
+      "photoUrl": "/images/athens/parthenon.jpg",
+      "openingHours": "8:00 AM - 7:30 PM (Summer)",
+      "entryFee": "20 EUR (Acropolis ticket)",
+      "tips": "Visit during golden hour for best photography",
+      "accessibility": "Moderate - viewing from designated areas only",
+      "bestTimeToVisit": "Early morning or sunset",
+      "historicalContext": "Built 447-432 BCE as the centerpiece of Pericles' building program",
+      "culturalSignificance": "Symbol of Classical Greek civilization and democracy",
+      "hiddenGems": "Traces of original paint on architectural details",
+      "thematicConnections": [
+        "Perfect Proportion",
+        "Religious Architecture",
+        "Political Power"
+      ],
+      "visitorExperiences": [
+        "Architectural study",
+        "Photography",
+        "Historical interpretation"
+      ],
+      "historicalNarrative": "Created as a testament to Athenian power and artistic achievement",
+      "nextStop": {
+        "description": "Walk to the Erechtheion",
+        "duration": "5 minutes",
+        "transportOptions": [
+          "Walking"
+        ]
+      }
+    },
+    {
+      "id": "ATH004",
+      "name": "Erechtheion",
+      "description": "Innovative asymmetrical temple with the famous Caryatid Porch",
+      "inDepthDescription": "A masterpiece of asymmetrical design accommodating multiple shrines on uneven ground, featuring the iconic Caryatid Porch.",
+      "inDepthDescriptionContext": "Built to house multiple important religious shrines",
+      "category": "Temple",
+      "coordinates": {
+        "latitude": "37.9718",
+        "longitude": "23.7267"
+      },
+      "estimatedDuration": "45 minutes",
+      "audioUrl": "/audio/erechtheion.mp3",
+      "photoUrl": "/images/athens/erechtheion.jpg",
+      "openingHours": "8:00 AM - 7:30 PM (Summer)",
+      "entryFee": "Included in Acropolis ticket",
+      "tips": "Study the building from all angles to appreciate its complex design",
+      "accessibility": "Moderate - viewing from designated areas",
+      "bestTimeToVisit": "Mid-morning",
+      "historicalContext": "Built 421-406 BCE during the Peloponnesian War",
+      "culturalSignificance": "Innovative architectural solution to complex religious requirements",
+      "hiddenGems": "Unique north porch with asymmetrical spacing",
+      "thematicConnections": [
+        "Religious Architecture",
+        "Innovation",
+        "Sculptural Integration"
+      ],
+      "visitorExperiences": [
+        "Architectural study",
+        "Religious history",
+        "Photography"
+      ],
+      "historicalNarrative": "Created to honor multiple deities and legendary kings",
+      "nextStop": {
+        "description": "Descend to the Temple of Olympian Zeus",
+        "duration": "20 minutes",
+        "transportOptions": [
+          "Walking"
+        ]
+      }
+    },
+    {
+      "id": "ATH005",
+      "name": "Temple of Olympian Zeus",
+      "description": "Colossal temple showing Roman influence on Greek architecture",
+      "inDepthDescription": "One of the ancient world's largest temples, demonstrating the synthesis of Greek and Roman architectural traditions.",
+      "inDepthDescriptionContext": "Construction spanned multiple empires over 638 years",
+      "category": "Temple",
+      "coordinates": {
+        "latitude": "37.9693",
+        "longitude": "23.7331"
+      },
+      "estimatedDuration": "45 minutes",
+      "audioUrl": "/audio/zeus-temple.mp3",
+      "photoUrl": "/images/athens/zeus-temple.jpg",
+      "openingHours": "8:00 AM - 6:30 PM",
+      "entryFee": "8 EUR",
+      "tips": "Visit early morning or late afternoon for dramatic lighting",
+      "accessibility": "Easy - flat terrain",
+      "bestTimeToVisit": "Golden hour",
+      "historicalContext": "Completed by Emperor Hadrian in 132 CE",
+      "culturalSignificance": "Symbol of Roman influence on Greek architecture",
+      "hiddenGems": "Fallen column from 1852 storm",
+      "thematicConnections": [
+        "Roman Influence",
+        "Architectural Scale",
+        "Imperial Power"
+      ],
+      "visitorExperiences": [
+        "Architectural appreciation",
+        "Photography",
+        "Historical study"
+      ],
+      "historicalNarrative": "The temple's construction history mirrors Athens' political transitions",
+      "nextStop": {
+        "description": "Walk to Hadrian's Library",
+        "duration": "15 minutes",
+        "transportOptions": [
+          "Walking"
+        ]
+      }
+    },
+    {
+      "id": "ATH006",
+      "name": "Hadrian's Library",
+      "description": "Roman cultural complex synthesizing Greek and Roman styles",
+      "inDepthDescription": "A sophisticated cultural center combining Greek architectural elements with Roman building techniques.",
+      "inDepthDescriptionContext": "Served as both library and educational institution",
+      "category": "Cultural Complex",
+      "coordinates": {
+        "latitude": "37.9754",
+        "longitude": "23.7258"
+      },
+      "estimatedDuration": "45 minutes",
+      "audioUrl": "/audio/hadrians-library.mp3",
+      "photoUrl": "/images/athens/hadrians-library.jpg",
+      "openingHours": "8:00 AM - 6:30 PM",
+      "entryFee": "6 EUR",
+      "tips": "Less crowded than other sites - good for peaceful contemplation",
+      "accessibility": "Easy - mostly flat terrain",
+      "bestTimeToVisit": "Midday",
+      "historicalContext": "Built in 132 CE as part of Hadrian's cultural program",
+      "culturalSignificance": "Center of learning in Roman Athens",
+      "hiddenGems": "Original scroll storage niches",
+      "thematicConnections": [
+        "Education",
+        "Cultural Exchange",
+        "Roman Innovation"
+      ],
+      "visitorExperiences": [
+        "Archaeological exploration",
+        "Architectural study",
+        "Historical interpretation"
+      ],
+      "historicalNarrative": "Transformed from library to church to mosque over centuries",
+      "nextStop": {
+        "description": "Tour conclusion",
+        "duration": "0 minutes",
+        "transportOptions": []
+      }
+    }
+  ]
+}

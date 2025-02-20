@@ -16,6 +16,7 @@
         {
           "Name": "Capuchin Crypt",
           "Category_Label": "Religious Site",
+          "tier": "Premium",
           "Photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rom%2C_Santa_Maria_Immacolata_a_Via_Veneto%2C_Krypta_der_Kapuziner_1.jpg",
           "Latitude": 41.9047,
           "Longitude": 12.4883, 

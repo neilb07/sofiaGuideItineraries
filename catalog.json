@@ -3,152 +3,28 @@
     "last_updated": "2024-12-31",
     "available_itineraries": [
 
-        {
-            "id": "greece-tour-001",
-            "title": "Tour of Athens",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ágora_de_Atenas_03.jpg/1024px-Ágora_de_Atenas_03.jpg",
-            "preview_description": "x",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/gr-athens_tour.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
 
         {
-            "id": "greece-tour-001",
-            "title": "Plaka, Athens",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/df/Plaka_district%2C_Athens%2C_Greece_-_panoramio.jpg",
-            "preview_description": "Journey Through Time: A Stroll Through Plaka, Athens",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/gr-plaka_Athens.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-
-        {
-            "id": "lisbon-palacio-marques-da-fronteira",
+            "id": "1",
             "title": "Palácio Marquês da Fronteira: A Lisbon Hidden Gem",
             "thumbnail": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2FSecrets_of_Pal%C3%A1cio_Marqu%C3%AAs_da_Fronteira%3A_A_Lisbon_Hidden_Gem%2FPalacio_Fronteira_-_Lisbon_(7721187114).jpg?alt=media&token=b352e3ec-aefd-49c7-984b-259a184e7582",
             "preview_description": "Uncover the secrets and stories of Palácio Marquês da Fronteira, a stunning example of Portugal's rich heritage where history, art, and nature intertwine.",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-palaciomarquesfronteira.json",
+            "download_url": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2FSecrets_of_Palácio_Marquês_da_Fronteira%3A_A_Lisbon_Hidden_Gem%2Fpt-lisbon-palaciomarquesfronteira.json?alt=media&token=f0907cc8-f02d-4290-aa25-3fffec2cc682",
             "tags": [
                 "Religious Sites",
                 "Architecture",
                 "History"
             ]
         },
-
-        {
-            "id": "Sofia-Medieval_Mysteries_of_Veliko_Tarnovo-001",
-            "title": "Bohemian Sofia Tour",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St._George_Rotunda%2C_Sofia%2C_Bulgaria_%2817680380465%29.jpg/1280px-St._George_Rotunda%2C_Sofia%2C_Bulgaria_%2817680380465%29.jpg",
-            "preview_description": "A journey through Sofia’s vibrant Bohemian era, exploring its cultural and intellectual landmarks.",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/bg-Bohemian_Sofia-001.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-        {
-            "id": "pantheon-tour-001",
-            "title": "The Pantheon: POIs and interesting facts",
-            "thumbnail": "https://www.saturdaysinrome.com/wp-content/uploads/2024/09/inside-the-pantheon-3.webp",
-            "preview_description": "Pantheon In-Depth Exploration",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pantheon-tour.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-
 
 
 
         {
-            "id": "Roma-Colosseo-001",
-            "title": "Exploring the Colosseum: A Journey Through Ancient Rome",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg",
-            "preview_description": "Discover the history, architecture, and mysteries of the iconic Colosseum in Rome.",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/it-rome-colosseum.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-
-                {
-            "id": "Roma-Obscura-002",
-            "title": "Obscure Rome: A Journey into Mystery",
-            "thumbnail": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/030/981/original/485e88e1bdd24903eebcd8a52a8673c6/article-italy-rome-capuchin-crypt.jpg",
-            "preview_description": "Explore the darker, more mysterious side of Rome with this unique itinerary featuring hidden gems and unusual sites.",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/it-rome-roma_obscura.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-
-     
-        {
-            "id": "Roma-forum-001",
-            "title": "Discovering the Roman Forum: The Heart of Ancient Rome",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Forum_Romanum_Rom.jpg/800px-Forum_Romanum_Rom.jpg",
-            "preview_description": "Explore the political, religious, and social center of ancient Rome in the Roman Forum",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/it-rome-forum.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-                {
-            "id": "Lisboa-Obscura-002",
-            "title": "Obscure Lisbon: A Journey into Mystery",
-            "thumbnail": "https://www.weheartlisbon.com/wp-content/uploads/2020/05/Igreja-de-S%C3%A3o-Domingos-muur-1024x683.jpg",
-            "preview_description": "Explore the darker, more mysterious side of Lisbon with this unique itinerary featuring hidden gems and unusual sites.",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-lisboa_obscura.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-
-        
-                {
-            "id": "Lisboa-earthquake-002",
-            "title": "1755 - Lisbon Earthquake tour.",
+            "id": "2",
+            "title": "1755 - Lisbon Earthquake tour. V2",
             "thumbnail": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2F1755-earthquake%2FAlegoria_ao_Terramoto_de_1755%2C_Jo%C3%A3o_Glama.png?alt=media&token=afffa9ac-47ae-4ba4-8413-45f0e862a4ba",
             "preview_description": "This itinerary explores Lisbon's rebirth following the devastating 1755 earthquake, focusing on historical sites, architectural innovations, and cultural shifts..",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-1755_earthquake.json",
-            "tags": [
-                "Religious Sites",
-                "Architecture",
-                "History"
-            ]
-        },
-
-        {
-            "id": "Lisboa-earthquake-002",
-            "title": "1755 V2",
-            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2F1755-earthquake%2FAlegoria_ao_Terramoto_de_1755%2C_Jo%C3%A3o_Glama.png?alt=media&token=afffa9ac-47ae-4ba4-8413-45f0e862a4ba",
-            "preview_description": "This itinerary explores Lisbon's rebirth following the devastating 1755 earthquake, focusing on historical sites, architectural innovations, and cultural shifts..",
-            "download_url": "https://neilb07.github.io/sofiaGuideItineraries/itineraries/pt-lisbon-1755_earthquake_v2.json",
+            "download_url": "https://firebasestorage.googleapis.com/v0/b/ai-tourguide-1dc92.firebasestorage.app/o/special_itineraries%2FPortugal%2F1755-earthquake%2Fpt-lisbon-1755_earthquake_v2.json?alt=media&token=fb6734dc-d6ba-4b86-b94d-06a9c89ea295",
             "tags": [
                 "Religious Sites",
                 "Architecture",
